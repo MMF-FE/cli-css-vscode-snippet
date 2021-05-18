@@ -1,0 +1,290 @@
+{
+    "--color-primary": {
+        "prefix": "--color-primary",
+        "body": "var(--color-primary)",
+        "description": "#6c5dd3;",
+        "scope": "sass,scss,css"
+    },
+    "#6c5dd3--color-primary": {
+        "prefix": "#6c5dd3",
+        "body": "var(--color-primary)",
+        "description": "#6c5dd3;",
+        "scope": "sass,scss,css"
+    },
+    "--color-primary-shades": {
+        "prefix": "--color-primary-shades",
+        "body": "var(--color-primary-shades)",
+        "description": "#cfc8ff;",
+        "scope": "sass,scss,css"
+    },
+    "#cfc8ff--color-primary-shades": {
+        "prefix": "#cfc8ff",
+        "body": "var(--color-primary-shades)",
+        "description": "#cfc8ff;",
+        "scope": "sass,scss,css"
+    },
+    "--color-primary-shades-1": {
+        "prefix": "--color-primary-shades-1",
+        "body": "var(--color-primary-shades-1)",
+        "description": "#cfc8ff;",
+        "scope": "sass,scss,css"
+    },
+    "#cfc8ff--color-primary-shades-1": {
+        "prefix": "#cfc8ff",
+        "body": "var(--color-primary-shades-1)",
+        "description": "#cfc8ff;",
+        "scope": "sass,scss,css"
+    },
+    "--color-secondary": {
+        "prefix": "--color-secondary",
+        "body": "var(--color-secondary)",
+        "description": "#0049c6;",
+        "scope": "sass,scss,css"
+    },
+    "#0049c6--color-secondary": {
+        "prefix": "#0049c6",
+        "body": "var(--color-secondary)",
+        "description": "#0049c6;",
+        "scope": "sass,scss,css"
+    },
+    "--color-secondary-shades": {
+        "prefix": "--color-secondary-shades",
+        "body": "var(--color-secondary-shades)",
+        "description": "#002685;",
+        "scope": "sass,scss,css"
+    },
+    "#002685--color-secondary-shades": {
+        "prefix": "#002685",
+        "body": "var(--color-secondary-shades)",
+        "description": "#002685;",
+        "scope": "sass,scss,css"
+    },
+    "--color-secondary-shades-1": {
+        "prefix": "--color-secondary-shades-1",
+        "body": "var(--color-secondary-shades-1)",
+        "description": "#244cb2;",
+        "scope": "sass,scss,css"
+    },
+    "#244cb2--color-secondary-shades-1": {
+        "prefix": "#244cb2",
+        "body": "var(--color-secondary-shades-1)",
+        "description": "#244cb2;",
+        "scope": "sass,scss,css"
+    },
+    "--color-secondary-shades-2": {
+        "prefix": "--color-secondary-shades-2",
+        "body": "var(--color-secondary-shades-2)",
+        "description": "#a0d7e7;",
+        "scope": "sass,scss,css"
+    },
+    "#a0d7e7--color-secondary-shades-2": {
+        "prefix": "#a0d7e7",
+        "body": "var(--color-secondary-shades-2)",
+        "description": "#a0d7e7;",
+        "scope": "sass,scss,css"
+    },
+    "--color-secondary-shades-3": {
+        "prefix": "--color-secondary-shades-3",
+        "body": "var(--color-secondary-shades-3)",
+        "description": "#5cbcff;",
+        "scope": "sass,scss,css"
+    },
+    "#5cbcff--color-secondary-shades-3": {
+        "prefix": "#5cbcff",
+        "body": "var(--color-secondary-shades-3)",
+        "description": "#5cbcff;",
+        "scope": "sass,scss,css"
+    },
+    "--color-secondary-shades-4": {
+        "prefix": "--color-secondary-shades-4",
+        "body": "var(--color-secondary-shades-4)",
+        "description": "#3f8cff;",
+        "scope": "sass,scss,css"
+    },
+    "#3f8cff--color-secondary-shades-4": {
+        "prefix": "#3f8cff",
+        "body": "var(--color-secondary-shades-4)",
+        "description": "#3f8cff;",
+        "scope": "sass,scss,css"
+    },
+    "--color-secondary-shades-5": {
+        "prefix": "--color-secondary-shades-5",
+        "body": "var(--color-secondary-shades-5)",
+        "description": "#cdf4ff;",
+        "scope": "sass,scss,css"
+    },
+    "#cdf4ff--color-secondary-shades-5": {
+        "prefix": "#cdf4ff",
+        "body": "var(--color-secondary-shades-5)",
+        "description": "#cdf4ff;",
+        "scope": "sass,scss,css"
+    },
+    "--color-secondary-shades-6": {
+        "prefix": "--color-secondary-shades-6",
+        "body": "var(--color-secondary-shades-6)",
+        "description": "#e7faff;",
+        "scope": "sass,scss,css"
+    },
+    "#e7faff--color-secondary-shades-6": {
+        "prefix": "#e7faff",
+        "body": "var(--color-secondary-shades-6)",
+        "description": "#e7faff;",
+        "scope": "sass,scss,css"
+    },
+    "--color-accent": {
+        "prefix": "--color-accent",
+        "body": "var(--color-accent)",
+        "description": "#ffa2c0;",
+        "scope": "sass,scss,css"
+    },
+    "#ffa2c0--color-accent": {
+        "prefix": "#ffa2c0",
+        "body": "var(--color-accent)",
+        "description": "#ffa2c0;",
+        "scope": "sass,scss,css"
+    },
+    "--color-accent-shades": {
+        "prefix": "--color-accent-shades",
+        "body": "var(--color-accent-shades)",
+        "description": "#ffb7f5;",
+        "scope": "sass,scss,css"
+    },
+    "#ffb7f5--color-accent-shades": {
+        "prefix": "#ffb7f5",
+        "body": "var(--color-accent-shades)",
+        "description": "#ffb7f5;",
+        "scope": "sass,scss,css"
+    },
+    "--color-accent-shades-1": {
+        "prefix": "--color-accent-shades-1",
+        "body": "var(--color-accent-shades-1)",
+        "description": "#ffebf6;",
+        "scope": "sass,scss,css"
+    },
+    "#ffebf6--color-accent-shades-1": {
+        "prefix": "#ffebf6",
+        "body": "var(--color-accent-shades-1)",
+        "description": "#ffebf6;",
+        "scope": "sass,scss,css"
+    },
+    "--color-accent-1": {
+        "prefix": "--color-accent-1",
+        "body": "var(--color-accent-1)",
+        "description": "#ffce73;",
+        "scope": "sass,scss,css"
+    },
+    "#ffce73--color-accent-1": {
+        "prefix": "#ffce73",
+        "body": "var(--color-accent-1)",
+        "description": "#ffce73;",
+        "scope": "sass,scss,css"
+    },
+    "--color-accent-1-shades": {
+        "prefix": "--color-accent-1-shades",
+        "body": "var(--color-accent-1-shades)",
+        "description": "#ff754c;",
+        "scope": "sass,scss,css"
+    },
+    "#ff754c--color-accent-1-shades": {
+        "prefix": "#ff754c",
+        "body": "var(--color-accent-1-shades)",
+        "description": "#ff754c;",
+        "scope": "sass,scss,css"
+    },
+    "--color-accent-1-shades-1": {
+        "prefix": "--color-accent-1-shades-1",
+        "body": "var(--color-accent-1-shades-1)",
+        "description": "#ff9a7b;",
+        "scope": "sass,scss,css"
+    },
+    "#ff9a7b--color-accent-1-shades-1": {
+        "prefix": "#ff9a7b",
+        "body": "var(--color-accent-1-shades-1)",
+        "description": "#ff9a7b;",
+        "scope": "sass,scss,css"
+    },
+    "--color-accent-1-shades-2": {
+        "prefix": "--color-accent-1-shades-2",
+        "body": "var(--color-accent-1-shades-2)",
+        "description": "#ffe2ac;",
+        "scope": "sass,scss,css"
+    },
+    "#ffe2ac--color-accent-1-shades-2": {
+        "prefix": "#ffe2ac",
+        "body": "var(--color-accent-1-shades-2)",
+        "description": "#ffe2ac;",
+        "scope": "sass,scss,css"
+    },
+    "--color-accent-1-shades-3": {
+        "prefix": "--color-accent-1-shades-3",
+        "body": "var(--color-accent-1-shades-3)",
+        "description": "#fff3dc;",
+        "scope": "sass,scss,css"
+    },
+    "#fff3dc--color-accent-1-shades-3": {
+        "prefix": "#fff3dc",
+        "body": "var(--color-accent-1-shades-3)",
+        "description": "#fff3dc;",
+        "scope": "sass,scss,css"
+    },
+    "--color-gray": {
+        "prefix": "--color-gray",
+        "body": "var(--color-gray)",
+        "description": "#1b1d21;",
+        "scope": "sass,scss,css"
+    },
+    "#1b1d21--color-gray": {
+        "prefix": "#1b1d21",
+        "body": "var(--color-gray)",
+        "description": "#1b1d21;",
+        "scope": "sass,scss,css"
+    },
+    "--color-gray-shades": {
+        "prefix": "--color-gray-shades",
+        "body": "var(--color-gray-shades)",
+        "description": "#808191;",
+        "scope": "sass,scss,css"
+    },
+    "#808191--color-gray-shades": {
+        "prefix": "#808191",
+        "body": "var(--color-gray-shades)",
+        "description": "#808191;",
+        "scope": "sass,scss,css"
+    },
+    "--color-gray-shades-1": {
+        "prefix": "--color-gray-shades-1",
+        "body": "var(--color-gray-shades-1)",
+        "description": "#e4e4e4;",
+        "scope": "sass,scss,css"
+    },
+    "#e4e4e4--color-gray-shades-1": {
+        "prefix": "#e4e4e4",
+        "body": "var(--color-gray-shades-1)",
+        "description": "#e4e4e4;",
+        "scope": "sass,scss,css"
+    },
+    "--color-gray-shades-2": {
+        "prefix": "--color-gray-shades-2",
+        "body": "var(--color-gray-shades-2)",
+        "description": "rgba(228, 228, 228, 0.5);",
+        "scope": "sass,scss,css"
+    },
+    "--color-gray-shades-3": {
+        "prefix": "--color-gray-shades-3",
+        "body": "var(--color-gray-shades-3)",
+        "description": "#f0f3f6;",
+        "scope": "sass,scss,css"
+    },
+    "#f0f3f6--color-gray-shades-3": {
+        "prefix": "#f0f3f6",
+        "body": "var(--color-gray-shades-3)",
+        "description": "#f0f3f6;",
+        "scope": "sass,scss,css"
+    },
+    "--color-gray-shades-4": {
+        "prefix": "--color-gray-shades-4",
+        "body": "var(--color-gray-shades-4)",
+        "description": "rgba(228, 228, 228, 0.25);",
+        "scope": "sass,scss,css"
+    }
+}
