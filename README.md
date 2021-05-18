@@ -1,4 +1,5 @@
 根据 css / sass 变量，生成 vscode 的 snippet
+
 Generate a snippet for vscode based on css / sass variables
 
 ### Installation
