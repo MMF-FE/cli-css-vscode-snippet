@@ -72,7 +72,7 @@ export async function createVarSnippet(
 
         if (color) {
             snippets[color + v.name] = {
-                prefix: color,
+                prefix: color.replace(/^\d+/, (match) => `_${match}`),
                 ...snippetBase
             }
         }

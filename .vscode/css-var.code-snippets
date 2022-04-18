@@ -18,7 +18,7 @@
         "scope": "sass,scss,css"
     },
     "11-11-11--color-primary-rgb": {
-        "prefix": "11-11-11",
+        "prefix": "_11-11-11",
         "body": "var(--color-primary-rgb)",
         "description": "11, 11, 11;",
         "scope": "sass,scss,css"
@@ -366,7 +366,7 @@
         "scope": "sass,scss,css"
     },
     "0-0-0--semi-black": {
-        "prefix": "0-0-0",
+        "prefix": "_0-0-0",
         "body": "var(--semi-black)",
         "description": "0, 0, 0;",
         "scope": "sass,scss,css"
@@ -378,7 +378,7 @@
         "scope": "sass,scss,css"
     },
     "255-242-240--semi-red-0": {
-        "prefix": "255-242-240",
+        "prefix": "_255-242-240",
         "body": "var(--semi-red-0)",
         "description": "255,242,240;",
         "scope": "sass,scss,css"
@@ -390,7 +390,7 @@
         "scope": "sass,scss,css"
     },
     "255-226-222--semi-red-1": {
-        "prefix": "255-226-222",
+        "prefix": "_255-226-222",
         "body": "var(--semi-red-1)",
         "description": "255,226,222;",
         "scope": "sass,scss,css"
@@ -402,7 +402,7 @@
         "scope": "sass,scss,css"
     },
     "255-188-181--semi-red-2": {
-        "prefix": "255-188-181",
+        "prefix": "_255-188-181",
         "body": "var(--semi-red-2)",
         "description": "255,188,181;",
         "scope": "sass,scss,css"
@@ -414,7 +414,7 @@
         "scope": "sass,scss,css"
     },
     "255-148-140--semi-red-3": {
-        "prefix": "255-148-140",
+        "prefix": "_255-148-140",
         "body": "var(--semi-red-3)",
         "description": "255,148,140;",
         "scope": "sass,scss,css"
@@ -426,7 +426,7 @@
         "scope": "sass,scss,css"
     },
     "255-105-99--semi-red-4": {
-        "prefix": "255-105-99",
+        "prefix": "_255-105-99",
         "body": "var(--semi-red-4)",
         "description": "255,105,99;",
         "scope": "sass,scss,css"
@@ -438,7 +438,7 @@
         "scope": "sass,scss,css"
     },
     "255-59-59--semi-red-5": {
-        "prefix": "255-59-59",
+        "prefix": "_255-59-59",
         "body": "var(--semi-red-5)",
         "description": "255,59,59;",
         "scope": "sass,scss,css"
@@ -450,7 +450,7 @@
         "scope": "sass,scss,css"
     },
     "217-39-45--semi-red-6": {
-        "prefix": "217-39-45",
+        "prefix": "_217-39-45",
         "body": "var(--semi-red-6)",
         "description": "217,39,45;",
         "scope": "sass,scss,css"
@@ -462,7 +462,7 @@
         "scope": "sass,scss,css"
     },
     "179-23-34--semi-red-7": {
-        "prefix": "179-23-34",
+        "prefix": "_179-23-34",
         "body": "var(--semi-red-7)",
         "description": "179,23,34;",
         "scope": "sass,scss,css"
@@ -474,7 +474,7 @@
         "scope": "sass,scss,css"
     },
     "140-11-24--semi-red-8": {
-        "prefix": "140-11-24",
+        "prefix": "_140-11-24",
         "body": "var(--semi-red-8)",
         "description": "140,11,24;",
         "scope": "sass,scss,css"
@@ -486,7 +486,7 @@
         "scope": "sass,scss,css"
     },
     "102-7-20--semi-red-9": {
-        "prefix": "102-7-20",
+        "prefix": "_102-7-20",
         "body": "var(--semi-red-9)",
         "description": "102,7,20;",
         "scope": "sass,scss,css"
@@ -498,7 +498,7 @@
         "scope": "sass,scss,css"
     },
     "255-255-255--semi-white": {
-        "prefix": "255-255-255",
+        "prefix": "_255-255-255",
         "body": "var(--semi-white)",
         "description": "255, 255, 255;",
         "scope": "sass,scss,css"
@@ -510,7 +510,7 @@
         "scope": "sass,scss,css"
     },
     "240-248-255--semi-blue-0": {
-        "prefix": "240-248-255",
+        "prefix": "_240-248-255",
         "body": "var(--semi-blue-0)",
         "description": "240,248,255;",
         "scope": "sass,scss,css"
@@ -522,7 +522,7 @@
         "scope": "sass,scss,css"
     },
     "209-232-255--semi-blue-1": {
-        "prefix": "209-232-255",
+        "prefix": "_209-232-255",
         "body": "var(--semi-blue-1)",
         "description": "209,232,255;",
         "scope": "sass,scss,css"
@@ -534,7 +534,7 @@
         "scope": "sass,scss,css"
     },
     "167-209-255--semi-blue-2": {
-        "prefix": "167-209-255",
+        "prefix": "_167-209-255",
         "body": "var(--semi-blue-2)",
         "description": "167,209,255;",
         "scope": "sass,scss,css"
@@ -546,7 +546,7 @@
         "scope": "sass,scss,css"
     },
     "128-183-255--semi-blue-3": {
-        "prefix": "128-183-255",
+        "prefix": "_128-183-255",
         "body": "var(--semi-blue-3)",
         "description": "128,183,255;",
         "scope": "sass,scss,css"
@@ -558,7 +558,7 @@
         "scope": "sass,scss,css"
     },
     "88-154-255--semi-blue-4": {
-        "prefix": "88-154-255",
+        "prefix": "_88-154-255",
         "body": "var(--semi-blue-4)",
         "description": "88,154,255;",
         "scope": "sass,scss,css"
@@ -570,7 +570,7 @@
         "scope": "sass,scss,css"
     },
     "44-119-244--semi-blue-5": {
-        "prefix": "44-119-244",
+        "prefix": "_44-119-244",
         "body": "var(--semi-blue-5)",
         "description": "44,119,244;",
         "scope": "sass,scss,css"
@@ -582,7 +582,7 @@
         "scope": "sass,scss,css"
     },
     "27-87-207--semi-blue-6": {
-        "prefix": "27-87-207",
+        "prefix": "_27-87-207",
         "body": "var(--semi-blue-6)",
         "description": "27,87,207;",
         "scope": "sass,scss,css"
@@ -594,7 +594,7 @@
         "scope": "sass,scss,css"
     },
     "13-60-168--semi-blue-7": {
-        "prefix": "13-60-168",
+        "prefix": "_13-60-168",
         "body": "var(--semi-blue-7)",
         "description": "13,60,168;",
         "scope": "sass,scss,css"
@@ -606,7 +606,7 @@
         "scope": "sass,scss,css"
     },
     "4-38-130--semi-blue-8": {
-        "prefix": "4-38-130",
+        "prefix": "_4-38-130",
         "body": "var(--semi-blue-8)",
         "description": "4,38,130;",
         "scope": "sass,scss,css"
@@ -618,7 +618,7 @@
         "scope": "sass,scss,css"
     },
     "2-23-92--semi-blue-9": {
-        "prefix": "2-23-92",
+        "prefix": "_2-23-92",
         "body": "var(--semi-blue-9)",
         "description": "2,23,92;",
         "scope": "sass,scss,css"
@@ -630,7 +630,7 @@
         "scope": "sass,scss,css"
     },
     "230-245-242--semi-cyan-0": {
-        "prefix": "230-245-242",
+        "prefix": "_230-245-242",
         "body": "var(--semi-cyan-0)",
         "description": "230,245,242;",
         "scope": "sass,scss,css"
@@ -642,7 +642,7 @@
         "scope": "sass,scss,css"
     },
     "207-232-229--semi-cyan-1": {
-        "prefix": "207-232-229",
+        "prefix": "_207-232-229",
         "body": "var(--semi-cyan-1)",
         "description": "207,232,229;",
         "scope": "sass,scss,css"
@@ -654,7 +654,7 @@
         "scope": "sass,scss,css"
     },
     "160-219-213--semi-cyan-2": {
-        "prefix": "160-219-213",
+        "prefix": "_160-219-213",
         "body": "var(--semi-cyan-2)",
         "description": "160,219,213;",
         "scope": "sass,scss,css"
@@ -666,7 +666,7 @@
         "scope": "sass,scss,css"
     },
     "118-207-202--semi-cyan-3": {
-        "prefix": "118-207-202",
+        "prefix": "_118-207-202",
         "body": "var(--semi-cyan-3)",
         "description": "118,207,202;",
         "scope": "sass,scss,css"
@@ -678,7 +678,7 @@
         "scope": "sass,scss,css"
     },
     "79-194-190--semi-cyan-4": {
-        "prefix": "79-194-190",
+        "prefix": "_79-194-190",
         "body": "var(--semi-cyan-4)",
         "description": "79,194,190;",
         "scope": "sass,scss,css"
@@ -690,7 +690,7 @@
         "scope": "sass,scss,css"
     },
     "45-182-181--semi-cyan-5": {
-        "prefix": "45-182-181",
+        "prefix": "_45-182-181",
         "body": "var(--semi-cyan-5)",
         "description": "45,182,181;",
         "scope": "sass,scss,css"
@@ -702,7 +702,7 @@
         "scope": "sass,scss,css"
     },
     "29-139-143--semi-cyan-6": {
-        "prefix": "29-139-143",
+        "prefix": "_29-139-143",
         "body": "var(--semi-cyan-6)",
         "description": "29,139,143;",
         "scope": "sass,scss,css"
@@ -714,7 +714,7 @@
         "scope": "sass,scss,css"
     },
     "16-99-105--semi-cyan-7": {
-        "prefix": "16-99-105",
+        "prefix": "_16-99-105",
         "body": "var(--semi-cyan-7)",
         "description": "16,99,105;",
         "scope": "sass,scss,css"
@@ -726,7 +726,7 @@
         "scope": "sass,scss,css"
     },
     "7-60-66--semi-cyan-8": {
-        "prefix": "7-60-66",
+        "prefix": "_7-60-66",
         "body": "var(--semi-cyan-8)",
         "description": "7,60,66;",
         "scope": "sass,scss,css"
@@ -738,7 +738,7 @@
         "scope": "sass,scss,css"
     },
     "3-25-29--semi-cyan-9": {
-        "prefix": "3-25-29",
+        "prefix": "_3-25-29",
         "body": "var(--semi-cyan-9)",
         "description": "3,25,29;",
         "scope": "sass,scss,css"
@@ -750,7 +750,7 @@
         "scope": "sass,scss,css"
     },
     "250-250-250--semi-grey-0": {
-        "prefix": "250-250-250",
+        "prefix": "_250-250-250",
         "body": "var(--semi-grey-0)",
         "description": "250,250,250;",
         "scope": "sass,scss,css"
@@ -762,7 +762,7 @@
         "scope": "sass,scss,css"
     },
     "244-244-246--semi-grey-1": {
-        "prefix": "244-244-246",
+        "prefix": "_244-244-246",
         "body": "var(--semi-grey-1)",
         "description": "244,244,246;",
         "scope": "sass,scss,css"
@@ -774,7 +774,7 @@
         "scope": "sass,scss,css"
     },
     "240-240-240--semi-grey-2": {
-        "prefix": "240-240-240",
+        "prefix": "_240-240-240",
         "body": "var(--semi-grey-2)",
         "description": "240,240,240;",
         "scope": "sass,scss,css"
@@ -786,7 +786,7 @@
         "scope": "sass,scss,css"
     },
     "232-232-232--semi-grey-3": {
-        "prefix": "232-232-232",
+        "prefix": "_232-232-232",
         "body": "var(--semi-grey-3)",
         "description": "232,232,232;",
         "scope": "sass,scss,css"
@@ -798,7 +798,7 @@
         "scope": "sass,scss,css"
     },
     "219-219-219--semi-grey-4": {
-        "prefix": "219-219-219",
+        "prefix": "_219-219-219",
         "body": "var(--semi-grey-4)",
         "description": "219,219,219;",
         "scope": "sass,scss,css"
@@ -810,7 +810,7 @@
         "scope": "sass,scss,css"
     },
     "204-204-204--semi-grey-5": {
-        "prefix": "204-204-204",
+        "prefix": "_204-204-204",
         "body": "var(--semi-grey-5)",
         "description": "204,204,204;",
         "scope": "sass,scss,css"
@@ -822,7 +822,7 @@
         "scope": "sass,scss,css"
     },
     "166-166-166--semi-grey-6": {
-        "prefix": "166-166-166",
+        "prefix": "_166-166-166",
         "body": "var(--semi-grey-6)",
         "description": "166,166,166;",
         "scope": "sass,scss,css"
@@ -834,7 +834,7 @@
         "scope": "sass,scss,css"
     },
     "140-140-140--semi-grey-7": {
-        "prefix": "140-140-140",
+        "prefix": "_140-140-140",
         "body": "var(--semi-grey-7)",
         "description": "140,140,140;",
         "scope": "sass,scss,css"
@@ -846,7 +846,7 @@
         "scope": "sass,scss,css"
     },
     "82-82-82--semi-grey-8": {
-        "prefix": "82-82-82",
+        "prefix": "_82-82-82",
         "body": "var(--semi-grey-8)",
         "description": "82,82,82;",
         "scope": "sass,scss,css"
@@ -858,7 +858,7 @@
         "scope": "sass,scss,css"
     },
     "38-38-38--semi-grey-9": {
-        "prefix": "38-38-38",
+        "prefix": "_38-38-38",
         "body": "var(--semi-grey-9)",
         "description": "38,38,38;",
         "scope": "sass,scss,css"
@@ -870,7 +870,7 @@
         "scope": "sass,scss,css"
     },
     "242-250-230--semi-lime-0": {
-        "prefix": "242-250-230",
+        "prefix": "_242-250-230",
         "body": "var(--semi-lime-0)",
         "description": "242,250,230;",
         "scope": "sass,scss,css"
@@ -882,7 +882,7 @@
         "scope": "sass,scss,css"
     },
     "227-246-197--semi-lime-1": {
-        "prefix": "227-246-197",
+        "prefix": "_227-246-197",
         "body": "var(--semi-lime-1)",
         "description": "227,246,197;",
         "scope": "sass,scss,css"
@@ -894,7 +894,7 @@
         "scope": "sass,scss,css"
     },
     "203-237-142--semi-lime-2": {
-        "prefix": "203-237-142",
+        "prefix": "_203-237-142",
         "body": "var(--semi-lime-2)",
         "description": "203,237,142;",
         "scope": "sass,scss,css"
@@ -906,7 +906,7 @@
         "scope": "sass,scss,css"
     },
     "183-227-91--semi-lime-3": {
-        "prefix": "183-227-91",
+        "prefix": "_183-227-91",
         "body": "var(--semi-lime-3)",
         "description": "183,227,91;",
         "scope": "sass,scss,css"
@@ -918,7 +918,7 @@
         "scope": "sass,scss,css"
     },
     "167-218-44--semi-lime-4": {
-        "prefix": "167-218-44",
+        "prefix": "_167-218-44",
         "body": "var(--semi-lime-4)",
         "description": "167,218,44;",
         "scope": "sass,scss,css"
@@ -930,7 +930,7 @@
         "scope": "sass,scss,css"
     },
     "155-209-0--semi-lime-5": {
-        "prefix": "155-209-0",
+        "prefix": "_155-209-0",
         "body": "var(--semi-lime-5)",
         "description": "155,209,0;",
         "scope": "sass,scss,css"
@@ -942,7 +942,7 @@
         "scope": "sass,scss,css"
     },
     "126-174-0--semi-lime-6": {
-        "prefix": "126-174-0",
+        "prefix": "_126-174-0",
         "body": "var(--semi-lime-6)",
         "description": "126,174,0;",
         "scope": "sass,scss,css"
@@ -954,7 +954,7 @@
         "scope": "sass,scss,css"
     },
     "99-139-0--semi-lime-7": {
-        "prefix": "99-139-0",
+        "prefix": "_99-139-0",
         "body": "var(--semi-lime-7)",
         "description": "99,139,0;",
         "scope": "sass,scss,css"
@@ -966,7 +966,7 @@
         "scope": "sass,scss,css"
     },
     "72-104-0--semi-lime-8": {
-        "prefix": "72-104-0",
+        "prefix": "_72-104-0",
         "body": "var(--semi-lime-8)",
         "description": "72,104,0;",
         "scope": "sass,scss,css"
@@ -978,7 +978,7 @@
         "scope": "sass,scss,css"
     },
     "47-70-0--semi-lime-9": {
-        "prefix": "47-70-0",
+        "prefix": "_47-70-0",
         "body": "var(--semi-lime-9)",
         "description": "47,70,0;",
         "scope": "sass,scss,css"
@@ -990,7 +990,7 @@
         "scope": "sass,scss,css"
     },
     "253-236-239--semi-pink-0": {
-        "prefix": "253-236-239",
+        "prefix": "_253-236-239",
         "body": "var(--semi-pink-0)",
         "description": "253,236,239;",
         "scope": "sass,scss,css"
@@ -1002,7 +1002,7 @@
         "scope": "sass,scss,css"
     },
     "251-207-216--semi-pink-1": {
-        "prefix": "251-207-216",
+        "prefix": "_251-207-216",
         "body": "var(--semi-pink-1)",
         "description": "251,207,216;",
         "scope": "sass,scss,css"
@@ -1014,7 +1014,7 @@
         "scope": "sass,scss,css"
     },
     "246-160-181--semi-pink-2": {
-        "prefix": "246-160-181",
+        "prefix": "_246-160-181",
         "body": "var(--semi-pink-2)",
         "description": "246,160,181;",
         "scope": "sass,scss,css"
@@ -1026,7 +1026,7 @@
         "scope": "sass,scss,css"
     },
     "242-115-150--semi-pink-3": {
-        "prefix": "242-115-150",
+        "prefix": "_242-115-150",
         "body": "var(--semi-pink-3)",
         "description": "242,115,150;",
         "scope": "sass,scss,css"
@@ -1038,7 +1038,7 @@
         "scope": "sass,scss,css"
     },
     "237-72-123--semi-pink-4": {
-        "prefix": "237-72-123",
+        "prefix": "_237-72-123",
         "body": "var(--semi-pink-4)",
         "description": "237,72,123;",
         "scope": "sass,scss,css"
@@ -1050,7 +1050,7 @@
         "scope": "sass,scss,css"
     },
     "233-30-99--semi-pink-5": {
-        "prefix": "233-30-99",
+        "prefix": "_233-30-99",
         "body": "var(--semi-pink-5)",
         "description": "233,30,99;",
         "scope": "sass,scss,css"
@@ -1062,7 +1062,7 @@
         "scope": "sass,scss,css"
     },
     "197-19-86--semi-pink-6": {
-        "prefix": "197-19-86",
+        "prefix": "_197-19-86",
         "body": "var(--semi-pink-6)",
         "description": "197,19,86;",
         "scope": "sass,scss,css"
@@ -1074,7 +1074,7 @@
         "scope": "sass,scss,css"
     },
     "162-11-72--semi-pink-7": {
-        "prefix": "162-11-72",
+        "prefix": "_162-11-72",
         "body": "var(--semi-pink-7)",
         "description": "162,11,72;",
         "scope": "sass,scss,css"
@@ -1086,7 +1086,7 @@
         "scope": "sass,scss,css"
     },
     "126-5-58--semi-pink-8": {
-        "prefix": "126-5-58",
+        "prefix": "_126-5-58",
         "body": "var(--semi-pink-8)",
         "description": "126,5,58;",
         "scope": "sass,scss,css"
@@ -1098,7 +1098,7 @@
         "scope": "sass,scss,css"
     },
     "90-1-43--semi-pink-9": {
-        "prefix": "90-1-43",
+        "prefix": "_90-1-43",
         "body": "var(--semi-pink-9)",
         "description": "90,1,43;",
         "scope": "sass,scss,css"
@@ -1110,7 +1110,7 @@
         "scope": "sass,scss,css"
     },
     "228-247-244--semi-teal-0": {
-        "prefix": "228-247-244",
+        "prefix": "_228-247-244",
         "body": "var(--semi-teal-0)",
         "description": "228,247,244;",
         "scope": "sass,scss,css"
@@ -1122,7 +1122,7 @@
         "scope": "sass,scss,css"
     },
     "192-240-232--semi-teal-1": {
-        "prefix": "192-240-232",
+        "prefix": "_192-240-232",
         "body": "var(--semi-teal-1)",
         "description": "192,240,232;",
         "scope": "sass,scss,css"
@@ -1134,7 +1134,7 @@
         "scope": "sass,scss,css"
     },
     "135-224-211--semi-teal-2": {
-        "prefix": "135-224-211",
+        "prefix": "_135-224-211",
         "body": "var(--semi-teal-2)",
         "description": "135,224,211;",
         "scope": "sass,scss,css"
@@ -1146,7 +1146,7 @@
         "scope": "sass,scss,css"
     },
     "84-209-193--semi-teal-3": {
-        "prefix": "84-209-193",
+        "prefix": "_84-209-193",
         "body": "var(--semi-teal-3)",
         "description": "84,209,193;",
         "scope": "sass,scss,css"
@@ -1158,7 +1158,7 @@
         "scope": "sass,scss,css"
     },
     "39-194-176--semi-teal-4": {
-        "prefix": "39-194-176",
+        "prefix": "_39-194-176",
         "body": "var(--semi-teal-4)",
         "description": "39,194,176;",
         "scope": "sass,scss,css"
@@ -1170,7 +1170,7 @@
         "scope": "sass,scss,css"
     },
     "0-179-161--semi-teal-5": {
-        "prefix": "0-179-161",
+        "prefix": "_0-179-161",
         "body": "var(--semi-teal-5)",
         "description": "0,179,161;",
         "scope": "sass,scss,css"
@@ -1182,7 +1182,7 @@
         "scope": "sass,scss,css"
     },
     "0-149-137--semi-teal-6": {
-        "prefix": "0-149-137",
+        "prefix": "_0-149-137",
         "body": "var(--semi-teal-6)",
         "description": "0,149,137;",
         "scope": "sass,scss,css"
@@ -1194,7 +1194,7 @@
         "scope": "sass,scss,css"
     },
     "0-119-111--semi-teal-7": {
-        "prefix": "0-119-111",
+        "prefix": "_0-119-111",
         "body": "var(--semi-teal-7)",
         "description": "0,119,111;",
         "scope": "sass,scss,css"
@@ -1206,7 +1206,7 @@
         "scope": "sass,scss,css"
     },
     "0-89-85--semi-teal-8": {
-        "prefix": "0-89-85",
+        "prefix": "_0-89-85",
         "body": "var(--semi-teal-8)",
         "description": "0,89,85;",
         "scope": "sass,scss,css"
@@ -1218,7 +1218,7 @@
         "scope": "sass,scss,css"
     },
     "0-60-58--semi-teal-9": {
-        "prefix": "0-60-58",
+        "prefix": "_0-60-58",
         "body": "var(--semi-teal-9)",
         "description": "0,60,58;",
         "scope": "sass,scss,css"
@@ -1230,7 +1230,7 @@
         "scope": "sass,scss,css"
     },
     "255-252-237--semi-amber-0": {
-        "prefix": "255-252-237",
+        "prefix": "_255-252-237",
         "body": "var(--semi-amber-0)",
         "description": "255,252,237;",
         "scope": "sass,scss,css"
@@ -1242,7 +1242,7 @@
         "scope": "sass,scss,css"
     },
     "255-247-210--semi-amber-1": {
-        "prefix": "255-247-210",
+        "prefix": "_255-247-210",
         "body": "var(--semi-amber-1)",
         "description": "255,247,210;",
         "scope": "sass,scss,css"
@@ -1254,7 +1254,7 @@
         "scope": "sass,scss,css"
     },
     "255-235-164--semi-amber-2": {
-        "prefix": "255-235-164",
+        "prefix": "_255-235-164",
         "body": "var(--semi-amber-2)",
         "description": "255,235,164;",
         "scope": "sass,scss,css"
@@ -1266,7 +1266,7 @@
         "scope": "sass,scss,css"
     },
     "255-221-119--semi-amber-3": {
-        "prefix": "255-221-119",
+        "prefix": "_255-221-119",
         "body": "var(--semi-amber-3)",
         "description": "255,221,119;",
         "scope": "sass,scss,css"
@@ -1278,7 +1278,7 @@
         "scope": "sass,scss,css"
     },
     "255-203-73--semi-amber-4": {
-        "prefix": "255-203-73",
+        "prefix": "_255-203-73",
         "body": "var(--semi-amber-4)",
         "description": "255,203,73;",
         "scope": "sass,scss,css"
@@ -1290,7 +1290,7 @@
         "scope": "sass,scss,css"
     },
     "255-183-28--semi-amber-5": {
-        "prefix": "255-183-28",
+        "prefix": "_255-183-28",
         "body": "var(--semi-amber-5)",
         "description": "255,183,28;",
         "scope": "sass,scss,css"
@@ -1302,7 +1302,7 @@
         "scope": "sass,scss,css"
     },
     "213-142-21--semi-amber-6": {
-        "prefix": "213-142-21",
+        "prefix": "_213-142-21",
         "body": "var(--semi-amber-6)",
         "description": "213,142,21;",
         "scope": "sass,scss,css"
@@ -1314,7 +1314,7 @@
         "scope": "sass,scss,css"
     },
     "170-105-15--semi-amber-7": {
-        "prefix": "170-105-15",
+        "prefix": "_170-105-15",
         "body": "var(--semi-amber-7)",
         "description": "170,105,15;",
         "scope": "sass,scss,css"
@@ -1326,7 +1326,7 @@
         "scope": "sass,scss,css"
     },
     "128-73-10--semi-amber-8": {
-        "prefix": "128-73-10",
+        "prefix": "_128-73-10",
         "body": "var(--semi-amber-8)",
         "description": "128,73,10;",
         "scope": "sass,scss,css"
@@ -1338,7 +1338,7 @@
         "scope": "sass,scss,css"
     },
     "85-44-6--semi-amber-9": {
-        "prefix": "85-44-6",
+        "prefix": "_85-44-6",
         "body": "var(--semi-amber-9)",
         "description": "85,44,6;",
         "scope": "sass,scss,css"
@@ -1350,7 +1350,7 @@
         "scope": "sass,scss,css"
     },
     "227-250-239--semi-green-0": {
-        "prefix": "227-250-239",
+        "prefix": "_227-250-239",
         "body": "var(--semi-green-0)",
         "description": "227,250,239;",
         "scope": "sass,scss,css"
@@ -1362,7 +1362,7 @@
         "scope": "sass,scss,css"
     },
     "178-237-210--semi-green-1": {
-        "prefix": "178-237-210",
+        "prefix": "_178-237-210",
         "body": "var(--semi-green-1)",
         "description": "178,237,210;",
         "scope": "sass,scss,css"
@@ -1374,7 +1374,7 @@
         "scope": "sass,scss,css"
     },
     "132-224-188--semi-green-2": {
-        "prefix": "132-224-188",
+        "prefix": "_132-224-188",
         "body": "var(--semi-green-2)",
         "description": "132,224,188;",
         "scope": "sass,scss,css"
@@ -1386,7 +1386,7 @@
         "scope": "sass,scss,css"
     },
     "91-212-167--semi-green-3": {
-        "prefix": "91-212-167",
+        "prefix": "_91-212-167",
         "body": "var(--semi-green-3)",
         "description": "91,212,167;",
         "scope": "sass,scss,css"
@@ -1398,7 +1398,7 @@
         "scope": "sass,scss,css"
     },
     "54-199-151--semi-green-4": {
-        "prefix": "54-199-151",
+        "prefix": "_54-199-151",
         "body": "var(--semi-green-4)",
         "description": "54,199,151;",
         "scope": "sass,scss,css"
@@ -1410,7 +1410,7 @@
         "scope": "sass,scss,css"
     },
     "21-186-137--semi-green-5": {
-        "prefix": "21-186-137",
+        "prefix": "_21-186-137",
         "body": "var(--semi-green-5)",
         "description": "21,186,137;",
         "scope": "sass,scss,css"
@@ -1422,7 +1422,7 @@
         "scope": "sass,scss,css"
     },
     "9-148-111--semi-green-6": {
-        "prefix": "9-148-111",
+        "prefix": "_9-148-111",
         "body": "var(--semi-green-6)",
         "description": "9,148,111;",
         "scope": "sass,scss,css"
@@ -1434,7 +1434,7 @@
         "scope": "sass,scss,css"
     },
     "1-110-84--semi-green-7": {
-        "prefix": "1-110-84",
+        "prefix": "_1-110-84",
         "body": "var(--semi-green-7)",
         "description": "1,110,84;",
         "scope": "sass,scss,css"
@@ -1446,7 +1446,7 @@
         "scope": "sass,scss,css"
     },
     "0-71-57--semi-green-8": {
-        "prefix": "0-71-57",
+        "prefix": "_0-71-57",
         "body": "var(--semi-green-8)",
         "description": "0,71,57;",
         "scope": "sass,scss,css"
@@ -1458,7 +1458,7 @@
         "scope": "sass,scss,css"
     },
     "0-33-28--semi-green-9": {
-        "prefix": "0-33-28",
+        "prefix": "_0-33-28",
         "body": "var(--semi-green-9)",
         "description": "0,33,28;",
         "scope": "sass,scss,css"
@@ -1470,7 +1470,7 @@
         "scope": "sass,scss,css"
     },
     "236-239-248--semi-indigo-0": {
-        "prefix": "236-239-248",
+        "prefix": "_236-239-248",
         "body": "var(--semi-indigo-0)",
         "description": "236,239,248;",
         "scope": "sass,scss,css"
@@ -1482,7 +1482,7 @@
         "scope": "sass,scss,css"
     },
     "209-216-240--semi-indigo-1": {
-        "prefix": "209-216-240",
+        "prefix": "_209-216-240",
         "body": "var(--semi-indigo-1)",
         "description": "209,216,240;",
         "scope": "sass,scss,css"
@@ -1494,7 +1494,7 @@
         "scope": "sass,scss,css"
     },
     "167-179-225--semi-indigo-2": {
-        "prefix": "167-179-225",
+        "prefix": "_167-179-225",
         "body": "var(--semi-indigo-2)",
         "description": "167,179,225;",
         "scope": "sass,scss,css"
@@ -1506,7 +1506,7 @@
         "scope": "sass,scss,css"
     },
     "128-144-211--semi-indigo-3": {
-        "prefix": "128-144-211",
+        "prefix": "_128-144-211",
         "body": "var(--semi-indigo-3)",
         "description": "128,144,211;",
         "scope": "sass,scss,css"
@@ -1518,7 +1518,7 @@
         "scope": "sass,scss,css"
     },
     "94-111-196--semi-indigo-4": {
-        "prefix": "94-111-196",
+        "prefix": "_94-111-196",
         "body": "var(--semi-indigo-4)",
         "description": "94,111,196;",
         "scope": "sass,scss,css"
@@ -1530,7 +1530,7 @@
         "scope": "sass,scss,css"
     },
     "63-81-181--semi-indigo-5": {
-        "prefix": "63-81-181",
+        "prefix": "_63-81-181",
         "body": "var(--semi-indigo-5)",
         "description": "63,81,181;",
         "scope": "sass,scss,css"
@@ -1542,7 +1542,7 @@
         "scope": "sass,scss,css"
     },
     "51-66-161--semi-indigo-6": {
-        "prefix": "51-66-161",
+        "prefix": "_51-66-161",
         "body": "var(--semi-indigo-6)",
         "description": "51,66,161;",
         "scope": "sass,scss,css"
@@ -1554,7 +1554,7 @@
         "scope": "sass,scss,css"
     },
     "40-52-140--semi-indigo-7": {
-        "prefix": "40-52-140",
+        "prefix": "_40-52-140",
         "body": "var(--semi-indigo-7)",
         "description": "40,52,140;",
         "scope": "sass,scss,css"
@@ -1566,7 +1566,7 @@
         "scope": "sass,scss,css"
     },
     "31-40-120--semi-indigo-8": {
-        "prefix": "31-40-120",
+        "prefix": "_31-40-120",
         "body": "var(--semi-indigo-8)",
         "description": "31,40,120;",
         "scope": "sass,scss,css"
@@ -1578,7 +1578,7 @@
         "scope": "sass,scss,css"
     },
     "23-29-99--semi-indigo-9": {
-        "prefix": "23-29-99",
+        "prefix": "_23-29-99",
         "body": "var(--semi-indigo-9)",
         "description": "23,29,99;",
         "scope": "sass,scss,css"
@@ -1590,7 +1590,7 @@
         "scope": "sass,scss,css"
     },
     "255-246-230--semi-orange-0": {
-        "prefix": "255-246-230",
+        "prefix": "_255-246-230",
         "body": "var(--semi-orange-0)",
         "description": "255,246,230;",
         "scope": "sass,scss,css"
@@ -1602,7 +1602,7 @@
         "scope": "sass,scss,css"
     },
     "255-222-168--semi-orange-1": {
-        "prefix": "255-222-168",
+        "prefix": "_255-222-168",
         "body": "var(--semi-orange-1)",
         "description": "255,222,168;",
         "scope": "sass,scss,css"
@@ -1614,7 +1614,7 @@
         "scope": "sass,scss,css"
     },
     "255-202-128--semi-orange-2": {
-        "prefix": "255-202-128",
+        "prefix": "_255-202-128",
         "body": "var(--semi-orange-2)",
         "description": "255,202,128;",
         "scope": "sass,scss,css"
@@ -1626,7 +1626,7 @@
         "scope": "sass,scss,css"
     },
     "255-179-87--semi-orange-3": {
-        "prefix": "255-179-87",
+        "prefix": "_255-179-87",
         "body": "var(--semi-orange-3)",
         "description": "255,179,87;",
         "scope": "sass,scss,css"
@@ -1638,7 +1638,7 @@
         "scope": "sass,scss,css"
     },
     "255-154-46--semi-orange-4": {
-        "prefix": "255-154-46",
+        "prefix": "_255-154-46",
         "body": "var(--semi-orange-4)",
         "description": "255,154,46;",
         "scope": "sass,scss,css"
@@ -1650,7 +1650,7 @@
         "scope": "sass,scss,css"
     },
     "254-124-4--semi-orange-5": {
-        "prefix": "254-124-4",
+        "prefix": "_254-124-4",
         "body": "var(--semi-orange-5)",
         "description": "254,124,4;",
         "scope": "sass,scss,css"
@@ -1662,7 +1662,7 @@
         "scope": "sass,scss,css"
     },
     "217-98-0--semi-orange-6": {
-        "prefix": "217-98-0",
+        "prefix": "_217-98-0",
         "body": "var(--semi-orange-6)",
         "description": "217,98,0;",
         "scope": "sass,scss,css"
@@ -1674,7 +1674,7 @@
         "scope": "sass,scss,css"
     },
     "179-74-0--semi-orange-7": {
-        "prefix": "179-74-0",
+        "prefix": "_179-74-0",
         "body": "var(--semi-orange-7)",
         "description": "179,74,0;",
         "scope": "sass,scss,css"
@@ -1686,7 +1686,7 @@
         "scope": "sass,scss,css"
     },
     "140-54-0--semi-orange-8": {
-        "prefix": "140-54-0",
+        "prefix": "_140-54-0",
         "body": "var(--semi-orange-8)",
         "description": "140,54,0;",
         "scope": "sass,scss,css"
@@ -1698,7 +1698,7 @@
         "scope": "sass,scss,css"
     },
     "102-36-0--semi-orange-9": {
-        "prefix": "102-36-0",
+        "prefix": "_102-36-0",
         "body": "var(--semi-orange-9)",
         "description": "102,36,0;",
         "scope": "sass,scss,css"
@@ -1710,7 +1710,7 @@
         "scope": "sass,scss,css"
     },
     "248-240-255--semi-purple-0": {
-        "prefix": "248-240-255",
+        "prefix": "_248-240-255",
         "body": "var(--semi-purple-0)",
         "description": "248,240,255;",
         "scope": "sass,scss,css"
@@ -1722,7 +1722,7 @@
         "scope": "sass,scss,css"
     },
     "228-213-246--semi-purple-1": {
-        "prefix": "228-213-246",
+        "prefix": "_228-213-246",
         "body": "var(--semi-purple-1)",
         "description": "228,213,246;",
         "scope": "sass,scss,css"
@@ -1734,7 +1734,7 @@
         "scope": "sass,scss,css"
     },
     "208-183-237--semi-purple-2": {
-        "prefix": "208-183-237",
+        "prefix": "_208-183-237",
         "body": "var(--semi-purple-2)",
         "description": "208,183,237;",
         "scope": "sass,scss,css"
@@ -1746,7 +1746,7 @@
         "scope": "sass,scss,css"
     },
     "188-153-228--semi-purple-3": {
-        "prefix": "188-153-228",
+        "prefix": "_188-153-228",
         "body": "var(--semi-purple-3)",
         "description": "188,153,228;",
         "scope": "sass,scss,css"
@@ -1758,7 +1758,7 @@
         "scope": "sass,scss,css"
     },
     "168-124-220--semi-purple-4": {
-        "prefix": "168-124-220",
+        "prefix": "_168-124-220",
         "body": "var(--semi-purple-4)",
         "description": "168,124,220;",
         "scope": "sass,scss,css"
@@ -1770,7 +1770,7 @@
         "scope": "sass,scss,css"
     },
     "148-95-212--semi-purple-5": {
-        "prefix": "148-95-212",
+        "prefix": "_148-95-212",
         "body": "var(--semi-purple-5)",
         "description": "148,95,212;",
         "scope": "sass,scss,css"
@@ -1782,7 +1782,7 @@
         "scope": "sass,scss,css"
     },
     "113-69-173--semi-purple-6": {
-        "prefix": "113-69-173",
+        "prefix": "_113-69-173",
         "body": "var(--semi-purple-6)",
         "description": "113,69,173;",
         "scope": "sass,scss,css"
@@ -1794,7 +1794,7 @@
         "scope": "sass,scss,css"
     },
     "81-47-135--semi-purple-7": {
-        "prefix": "81-47-135",
+        "prefix": "_81-47-135",
         "body": "var(--semi-purple-7)",
         "description": "81,47,135;",
         "scope": "sass,scss,css"
@@ -1806,7 +1806,7 @@
         "scope": "sass,scss,css"
     },
     "53-29-97--semi-purple-8": {
-        "prefix": "53-29-97",
+        "prefix": "_53-29-97",
         "body": "var(--semi-purple-8)",
         "description": "53,29,97;",
         "scope": "sass,scss,css"
@@ -1818,7 +1818,7 @@
         "scope": "sass,scss,css"
     },
     "30-18-59--semi-purple-9": {
-        "prefix": "30-18-59",
+        "prefix": "_30-18-59",
         "body": "var(--semi-purple-9)",
         "description": "30,18,59;",
         "scope": "sass,scss,css"
@@ -1830,7 +1830,7 @@
         "scope": "sass,scss,css"
     },
     "243-237-249--semi-violet-0": {
-        "prefix": "243-237-249",
+        "prefix": "_243-237-249",
         "body": "var(--semi-violet-0)",
         "description": "243,237,249;",
         "scope": "sass,scss,css"
@@ -1842,7 +1842,7 @@
         "scope": "sass,scss,css"
     },
     "226-209-244--semi-violet-1": {
-        "prefix": "226-209-244",
+        "prefix": "_226-209-244",
         "body": "var(--semi-violet-1)",
         "description": "226,209,244;",
         "scope": "sass,scss,css"
@@ -1854,7 +1854,7 @@
         "scope": "sass,scss,css"
     },
     "196-167-233--semi-violet-2": {
-        "prefix": "196-167-233",
+        "prefix": "_196-167-233",
         "body": "var(--semi-violet-2)",
         "description": "196,167,233;",
         "scope": "sass,scss,css"
@@ -1866,7 +1866,7 @@
         "scope": "sass,scss,css"
     },
     "166-127-221--semi-violet-3": {
-        "prefix": "166-127-221",
+        "prefix": "_166-127-221",
         "body": "var(--semi-violet-3)",
         "description": "166,127,221;",
         "scope": "sass,scss,css"
@@ -1878,7 +1878,7 @@
         "scope": "sass,scss,css"
     },
     "136-91-210--semi-violet-4": {
-        "prefix": "136-91-210",
+        "prefix": "_136-91-210",
         "body": "var(--semi-violet-4)",
         "description": "136,91,210;",
         "scope": "sass,scss,css"
@@ -1890,7 +1890,7 @@
         "scope": "sass,scss,css"
     },
     "106-58-199--semi-violet-5": {
-        "prefix": "106-58-199",
+        "prefix": "_106-58-199",
         "body": "var(--semi-violet-5)",
         "description": "106,58,199;",
         "scope": "sass,scss,css"
@@ -1902,7 +1902,7 @@
         "scope": "sass,scss,css"
     },
     "87-47-179--semi-violet-6": {
-        "prefix": "87-47-179",
+        "prefix": "_87-47-179",
         "body": "var(--semi-violet-6)",
         "description": "87,47,179;",
         "scope": "sass,scss,css"
@@ -1914,7 +1914,7 @@
         "scope": "sass,scss,css"
     },
     "70-37-158--semi-violet-7": {
-        "prefix": "70-37-158",
+        "prefix": "_70-37-158",
         "body": "var(--semi-violet-7)",
         "description": "70,37,158;",
         "scope": "sass,scss,css"
@@ -1926,7 +1926,7 @@
         "scope": "sass,scss,css"
     },
     "54-28-138--semi-violet-8": {
-        "prefix": "54-28-138",
+        "prefix": "_54-28-138",
         "body": "var(--semi-violet-8)",
         "description": "54,28,138;",
         "scope": "sass,scss,css"
@@ -1938,7 +1938,7 @@
         "scope": "sass,scss,css"
     },
     "40-20-117--semi-violet-9": {
-        "prefix": "40-20-117",
+        "prefix": "_40-20-117",
         "body": "var(--semi-violet-9)",
         "description": "40,20,117;",
         "scope": "sass,scss,css"
@@ -1950,7 +1950,7 @@
         "scope": "sass,scss,css"
     },
     "255-253-234--semi-yellow-0": {
-        "prefix": "255-253-234",
+        "prefix": "_255-253-234",
         "body": "var(--semi-yellow-0)",
         "description": "255,253,234;",
         "scope": "sass,scss,css"
@@ -1962,7 +1962,7 @@
         "scope": "sass,scss,css"
     },
     "254-251-203--semi-yellow-1": {
-        "prefix": "254-251-203",
+        "prefix": "_254-251-203",
         "body": "var(--semi-yellow-1)",
         "description": "254,251,203;",
         "scope": "sass,scss,css"
@@ -1974,7 +1974,7 @@
         "scope": "sass,scss,css"
     },
     "253-243-152--semi-yellow-2": {
-        "prefix": "253-243-152",
+        "prefix": "_253-243-152",
         "body": "var(--semi-yellow-2)",
         "description": "253,243,152;",
         "scope": "sass,scss,css"
@@ -1986,7 +1986,7 @@
         "scope": "sass,scss,css"
     },
     "252-232-101--semi-yellow-3": {
-        "prefix": "252-232-101",
+        "prefix": "_252-232-101",
         "body": "var(--semi-yellow-3)",
         "description": "252,232,101;",
         "scope": "sass,scss,css"
@@ -1998,7 +1998,7 @@
         "scope": "sass,scss,css"
     },
     "251-218-50--semi-yellow-4": {
-        "prefix": "251-218-50",
+        "prefix": "_251-218-50",
         "body": "var(--semi-yellow-4)",
         "description": "251,218,50;",
         "scope": "sass,scss,css"
@@ -2010,7 +2010,7 @@
         "scope": "sass,scss,css"
     },
     "250-200-0--semi-yellow-5": {
-        "prefix": "250-200-0",
+        "prefix": "_250-200-0",
         "body": "var(--semi-yellow-5)",
         "description": "250,200,0;",
         "scope": "sass,scss,css"
@@ -2022,7 +2022,7 @@
         "scope": "sass,scss,css"
     },
     "208-170-0--semi-yellow-6": {
-        "prefix": "208-170-0",
+        "prefix": "_208-170-0",
         "body": "var(--semi-yellow-6)",
         "description": "208,170,0;",
         "scope": "sass,scss,css"
@@ -2034,7 +2034,7 @@
         "scope": "sass,scss,css"
     },
     "167-139-0--semi-yellow-7": {
-        "prefix": "167-139-0",
+        "prefix": "_167-139-0",
         "body": "var(--semi-yellow-7)",
         "description": "167,139,0;",
         "scope": "sass,scss,css"
@@ -2046,7 +2046,7 @@
         "scope": "sass,scss,css"
     },
     "125-106-0--semi-yellow-8": {
-        "prefix": "125-106-0",
+        "prefix": "_125-106-0",
         "body": "var(--semi-yellow-8)",
         "description": "125,106,0;",
         "scope": "sass,scss,css"
@@ -2058,7 +2058,7 @@
         "scope": "sass,scss,css"
     },
     "83-72-0--semi-yellow-9": {
-        "prefix": "83-72-0",
+        "prefix": "_83-72-0",
         "body": "var(--semi-yellow-9)",
         "description": "83,72,0;",
         "scope": "sass,scss,css"
@@ -2070,7 +2070,7 @@
         "scope": "sass,scss,css"
     },
     "232-234-237--semi-Dark-sit-0": {
-        "prefix": "232-234-237",
+        "prefix": "_232-234-237",
         "body": "var(--semi-Dark-sit-0)",
         "description": "232,234,237;",
         "scope": "sass,scss,css"
@@ -2082,7 +2082,7 @@
         "scope": "sass,scss,css"
     },
     "200-210-219--semi-Dark-sit-1": {
-        "prefix": "200-210-219",
+        "prefix": "_200-210-219",
         "body": "var(--semi-Dark-sit-1)",
         "description": "200,210,219;",
         "scope": "sass,scss,css"
@@ -2094,7 +2094,7 @@
         "scope": "sass,scss,css"
     },
     "152-167-183--semi-Dark-sit-2": {
-        "prefix": "152-167-183",
+        "prefix": "_152-167-183",
         "body": "var(--semi-Dark-sit-2)",
         "description": "152,167,183;",
         "scope": "sass,scss,css"
@@ -2106,7 +2106,7 @@
         "scope": "sass,scss,css"
     },
     "109-127-148--semi-Dark-sit-3": {
-        "prefix": "109-127-148",
+        "prefix": "_109-127-148",
         "body": "var(--semi-Dark-sit-3)",
         "description": "109,127,148;",
         "scope": "sass,scss,css"
@@ -2118,7 +2118,7 @@
         "scope": "sass,scss,css"
     },
     "73-90-112--semi-Dark-sit-4": {
-        "prefix": "73-90-112",
+        "prefix": "_73-90-112",
         "body": "var(--semi-Dark-sit-4)",
         "description": "73,90,112;",
         "scope": "sass,scss,css"
@@ -2130,7 +2130,7 @@
         "scope": "sass,scss,css"
     },
     "43-57-76--semi-Dark-sit-5": {
-        "prefix": "43-57-76",
+        "prefix": "_43-57-76",
         "body": "var(--semi-Dark-sit-5)",
         "description": "43,57,76;",
         "scope": "sass,scss,css"
@@ -2142,7 +2142,7 @@
         "scope": "sass,scss,css"
     },
     "30-40-56--semi-Dark-sit-6": {
-        "prefix": "30-40-56",
+        "prefix": "_30-40-56",
         "body": "var(--semi-Dark-sit-6)",
         "description": "30,40,56;",
         "scope": "sass,scss,css"
@@ -2154,7 +2154,7 @@
         "scope": "sass,scss,css"
     },
     "18-25-35--semi-Dark-sit-7": {
-        "prefix": "18-25-35",
+        "prefix": "_18-25-35",
         "body": "var(--semi-Dark-sit-7)",
         "description": "18,25,35;",
         "scope": "sass,scss,css"
@@ -2166,7 +2166,7 @@
         "scope": "sass,scss,css"
     },
     "7-10-15--semi-Dark-sit-8": {
-        "prefix": "7-10-15",
+        "prefix": "_7-10-15",
         "body": "var(--semi-Dark-sit-8)",
         "description": "7,10,15;",
         "scope": "sass,scss,css"
@@ -2178,7 +2178,7 @@
         "scope": "sass,scss,css"
     },
     "0-0-0--semi-Dark-sit-9": {
-        "prefix": "0-0-0",
+        "prefix": "_0-0-0",
         "body": "var(--semi-Dark-sit-9)",
         "description": "0,0,0;",
         "scope": "sass,scss,css"
@@ -2190,7 +2190,7 @@
         "scope": "sass,scss,css"
     },
     "233-247-253--semi-light-blue-0": {
-        "prefix": "233-247-253",
+        "prefix": "_233-247-253",
         "body": "var(--semi-light-blue-0)",
         "description": "233,247,253;",
         "scope": "sass,scss,css"
@@ -2202,7 +2202,7 @@
         "scope": "sass,scss,css"
     },
     "201-236-252--semi-light-blue-1": {
-        "prefix": "201-236-252",
+        "prefix": "_201-236-252",
         "body": "var(--semi-light-blue-1)",
         "description": "201,236,252;",
         "scope": "sass,scss,css"
@@ -2214,7 +2214,7 @@
         "scope": "sass,scss,css"
     },
     "149-216-248--semi-light-blue-2": {
-        "prefix": "149-216-248",
+        "prefix": "_149-216-248",
         "body": "var(--semi-light-blue-2)",
         "description": "149,216,248;",
         "scope": "sass,scss,css"
@@ -2226,7 +2226,7 @@
         "scope": "sass,scss,css"
     },
     "98-195-245--semi-light-blue-3": {
-        "prefix": "98-195-245",
+        "prefix": "_98-195-245",
         "body": "var(--semi-light-blue-3)",
         "description": "98,195,245;",
         "scope": "sass,scss,css"
@@ -2238,7 +2238,7 @@
         "scope": "sass,scss,css"
     },
     "48-172-241--semi-light-blue-4": {
-        "prefix": "48-172-241",
+        "prefix": "_48-172-241",
         "body": "var(--semi-light-blue-4)",
         "description": "48,172,241;",
         "scope": "sass,scss,css"
@@ -2250,7 +2250,7 @@
         "scope": "sass,scss,css"
     },
     "0-149-238--semi-light-blue-5": {
-        "prefix": "0-149-238",
+        "prefix": "_0-149-238",
         "body": "var(--semi-light-blue-5)",
         "description": "0,149,238;",
         "scope": "sass,scss,css"
@@ -2262,7 +2262,7 @@
         "scope": "sass,scss,css"
     },
     "0-123-202--semi-light-blue-6": {
-        "prefix": "0-123-202",
+        "prefix": "_0-123-202",
         "body": "var(--semi-light-blue-6)",
         "description": "0,123,202;",
         "scope": "sass,scss,css"
@@ -2274,7 +2274,7 @@
         "scope": "sass,scss,css"
     },
     "0-99-167--semi-light-blue-7": {
-        "prefix": "0-99-167",
+        "prefix": "_0-99-167",
         "body": "var(--semi-light-blue-7)",
         "description": "0,99,167;",
         "scope": "sass,scss,css"
@@ -2286,7 +2286,7 @@
         "scope": "sass,scss,css"
     },
     "0-75-131--semi-light-blue-8": {
-        "prefix": "0-75-131",
+        "prefix": "_0-75-131",
         "body": "var(--semi-light-blue-8)",
         "description": "0,75,131;",
         "scope": "sass,scss,css"
@@ -2298,7 +2298,7 @@
         "scope": "sass,scss,css"
     },
     "0-53-95--semi-light-blue-9": {
-        "prefix": "0-53-95",
+        "prefix": "_0-53-95",
         "body": "var(--semi-light-blue-9)",
         "description": "0,53,95;",
         "scope": "sass,scss,css"
@@ -2310,7 +2310,7 @@
         "scope": "sass,scss,css"
     },
     "243-248-236--semi-light-green-0": {
-        "prefix": "243-248-236",
+        "prefix": "_243-248-236",
         "body": "var(--semi-light-green-0)",
         "description": "243,248,236;",
         "scope": "sass,scss,css"
@@ -2322,7 +2322,7 @@
         "scope": "sass,scss,css"
     },
     "227-240-208--semi-light-green-1": {
-        "prefix": "227-240-208",
+        "prefix": "_227-240-208",
         "body": "var(--semi-light-green-1)",
         "description": "227,240,208;",
         "scope": "sass,scss,css"
@@ -2334,7 +2334,7 @@
         "scope": "sass,scss,css"
     },
     "200-226-165--semi-light-green-2": {
-        "prefix": "200-226-165",
+        "prefix": "_200-226-165",
         "body": "var(--semi-light-green-2)",
         "description": "200,226,165;",
         "scope": "sass,scss,css"
@@ -2346,7 +2346,7 @@
         "scope": "sass,scss,css"
     },
     "173-211-126--semi-light-green-3": {
-        "prefix": "173-211-126",
+        "prefix": "_173-211-126",
         "body": "var(--semi-light-green-3)",
         "description": "173,211,126;",
         "scope": "sass,scss,css"
@@ -2358,7 +2358,7 @@
         "scope": "sass,scss,css"
     },
     "147-197-91--semi-light-green-4": {
-        "prefix": "147-197-91",
+        "prefix": "_147-197-91",
         "body": "var(--semi-light-green-4)",
         "description": "147,197,91;",
         "scope": "sass,scss,css"
@@ -2370,7 +2370,7 @@
         "scope": "sass,scss,css"
     },
     "123-182-60--semi-light-green-5": {
-        "prefix": "123-182-60",
+        "prefix": "_123-182-60",
         "body": "var(--semi-light-green-5)",
         "description": "123,182,60;",
         "scope": "sass,scss,css"
@@ -2382,7 +2382,7 @@
         "scope": "sass,scss,css"
     },
     "100-152-48--semi-light-green-6": {
-        "prefix": "100-152-48",
+        "prefix": "_100-152-48",
         "body": "var(--semi-light-green-6)",
         "description": "100,152,48;",
         "scope": "sass,scss,css"
@@ -2394,7 +2394,7 @@
         "scope": "sass,scss,css"
     },
     "78-121-38--semi-light-green-7": {
-        "prefix": "78-121-38",
+        "prefix": "_78-121-38",
         "body": "var(--semi-light-green-7)",
         "description": "78,121,38;",
         "scope": "sass,scss,css"
@@ -2406,7 +2406,7 @@
         "scope": "sass,scss,css"
     },
     "57-91-27--semi-light-green-8": {
-        "prefix": "57-91-27",
+        "prefix": "_57-91-27",
         "body": "var(--semi-light-green-8)",
         "description": "57,91,27;",
         "scope": "sass,scss,css"
@@ -2418,1027 +2418,1027 @@
         "scope": "sass,scss,css"
     },
     "37-61-18--semi-light-green-9": {
-        "prefix": "37-61-18",
+        "prefix": "_37-61-18",
         "body": "var(--semi-light-green-9)",
         "description": "37,61,18;",
         "scope": "sass,scss,css"
     },
     "109-9-11--semi-red-0": {
-        "prefix": "109-9-11",
+        "prefix": "_109-9-11",
         "body": "var(--semi-red-0)",
         "description": "109,9,11;",
         "scope": "sass,scss,css"
     },
     "145-17-16--semi-red-1": {
-        "prefix": "145-17-16",
+        "prefix": "_145-17-16",
         "body": "var(--semi-red-1)",
         "description": "145,17,16;",
         "scope": "sass,scss,css"
     },
     "181-32-25--semi-red-2": {
-        "prefix": "181-32-25",
+        "prefix": "_181-32-25",
         "body": "var(--semi-red-2)",
         "description": "181,32,25;",
         "scope": "sass,scss,css"
     },
     "216-51-36--semi-red-3": {
-        "prefix": "216-51-36",
+        "prefix": "_216-51-36",
         "body": "var(--semi-red-3)",
         "description": "216,51,36;",
         "scope": "sass,scss,css"
     },
     "252-73-50--semi-red-4": {
-        "prefix": "252-73-50",
+        "prefix": "_252-73-50",
         "body": "var(--semi-red-4)",
         "description": "252,73,50;",
         "scope": "sass,scss,css"
     },
     "253-114-91--semi-red-5": {
-        "prefix": "253-114-91",
+        "prefix": "_253-114-91",
         "body": "var(--semi-red-5)",
         "description": "253,114,91;",
         "scope": "sass,scss,css"
     },
     "253-153-131--semi-red-6": {
-        "prefix": "253-153-131",
+        "prefix": "_253-153-131",
         "body": "var(--semi-red-6)",
         "description": "253,153,131;",
         "scope": "sass,scss,css"
     },
     "253-190-172--semi-red-7": {
-        "prefix": "253-190-172",
+        "prefix": "_253-190-172",
         "body": "var(--semi-red-7)",
         "description": "253,190,172;",
         "scope": "sass,scss,css"
     },
     "254-224-214--semi-red-8": {
-        "prefix": "254-224-214",
+        "prefix": "_254-224-214",
         "body": "var(--semi-red-8)",
         "description": "254,224,214;",
         "scope": "sass,scss,css"
     },
     "255-243-239--semi-red-9": {
-        "prefix": "255-243-239",
+        "prefix": "_255-243-239",
         "body": "var(--semi-red-9)",
         "description": "255,243,239;",
         "scope": "sass,scss,css"
     },
     "0-45-110--semi-blue-0": {
-        "prefix": "0-45-110",
+        "prefix": "_0-45-110",
         "body": "var(--semi-blue-0)",
         "description": "0,45,110;",
         "scope": "sass,scss,css"
     },
     "0-62-146--semi-blue-1": {
-        "prefix": "0-62-146",
+        "prefix": "_0-62-146",
         "body": "var(--semi-blue-1)",
         "description": "0,62,146;",
         "scope": "sass,scss,css"
     },
     "3-82-182--semi-blue-2": {
-        "prefix": "3-82-182",
+        "prefix": "_3-82-182",
         "body": "var(--semi-blue-2)",
         "description": "3,82,182;",
         "scope": "sass,scss,css"
     },
     "11-106-217--semi-blue-3": {
-        "prefix": "11-106-217",
+        "prefix": "_11-106-217",
         "body": "var(--semi-blue-3)",
         "description": "11,106,217;",
         "scope": "sass,scss,css"
     },
     "20-131-253--semi-blue-4": {
-        "prefix": "20-131-253",
+        "prefix": "_20-131-253",
         "body": "var(--semi-blue-4)",
         "description": "20,131,253;",
         "scope": "sass,scss,css"
     },
     "67-159-253--semi-blue-5": {
-        "prefix": "67-159-253",
+        "prefix": "_67-159-253",
         "body": "var(--semi-blue-5)",
         "description": "67,159,253;",
         "scope": "sass,scss,css"
     },
     "114-185-254--semi-blue-6": {
-        "prefix": "114-185-254",
+        "prefix": "_114-185-254",
         "body": "var(--semi-blue-6)",
         "description": "114,185,254;",
         "scope": "sass,scss,css"
     },
     "176-208-252--semi-blue-7": {
-        "prefix": "176-208-252",
+        "prefix": "_176-208-252",
         "body": "var(--semi-blue-7)",
         "description": "176,208,252;",
         "scope": "sass,scss,css"
     },
     "208-233-255--semi-blue-8": {
-        "prefix": "208-233-255",
+        "prefix": "_208-233-255",
         "body": "var(--semi-blue-8)",
         "description": "208,233,255;",
         "scope": "sass,scss,css"
     },
     "236-247-255--semi-blue-9": {
-        "prefix": "236-247-255",
+        "prefix": "_236-247-255",
         "body": "var(--semi-blue-9)",
         "description": "236,247,255;",
         "scope": "sass,scss,css"
     },
     "4-52-61--semi-cyan-0": {
-        "prefix": "4-52-61",
+        "prefix": "_4-52-61",
         "body": "var(--semi-cyan-0)",
         "description": "4,52,61;",
         "scope": "sass,scss,css"
     },
     "7-79-92--semi-cyan-1": {
-        "prefix": "7-79-92",
+        "prefix": "_7-79-92",
         "body": "var(--semi-cyan-1)",
         "description": "7,79,92;",
         "scope": "sass,scss,css"
     },
     "10-108-123--semi-cyan-2": {
-        "prefix": "10-108-123",
+        "prefix": "_10-108-123",
         "body": "var(--semi-cyan-2)",
         "description": "10,108,123;",
         "scope": "sass,scss,css"
     },
     "14-137-153--semi-cyan-3": {
-        "prefix": "14-137-153",
+        "prefix": "_14-137-153",
         "body": "var(--semi-cyan-3)",
         "description": "14,137,153;",
         "scope": "sass,scss,css"
     },
     "19-168-184--semi-cyan-4": {
-        "prefix": "19-168-184",
+        "prefix": "_19-168-184",
         "body": "var(--semi-cyan-4)",
         "description": "19,168,184;",
         "scope": "sass,scss,css"
     },
     "56-187-198--semi-cyan-5": {
-        "prefix": "56-187-198",
+        "prefix": "_56-187-198",
         "body": "var(--semi-cyan-5)",
         "description": "56,187,198;",
         "scope": "sass,scss,css"
     },
     "98-205-212--semi-cyan-6": {
-        "prefix": "98-205-212",
+        "prefix": "_98-205-212",
         "body": "var(--semi-cyan-6)",
         "description": "98,205,212;",
         "scope": "sass,scss,css"
     },
     "145-223-227--semi-cyan-7": {
-        "prefix": "145-223-227",
+        "prefix": "_145-223-227",
         "body": "var(--semi-cyan-7)",
         "description": "145,223,227;",
         "scope": "sass,scss,css"
     },
     "198-239-241--semi-cyan-8": {
-        "prefix": "198-239-241",
+        "prefix": "_198-239-241",
         "body": "var(--semi-cyan-8)",
         "description": "198,239,241;",
         "scope": "sass,scss,css"
     },
     "231-247-248--semi-cyan-9": {
-        "prefix": "231-247-248",
+        "prefix": "_231-247-248",
         "body": "var(--semi-cyan-9)",
         "description": "231,247,248;",
         "scope": "sass,scss,css"
     },
     "17-19-21--semi-grey-0": {
-        "prefix": "17-19-21",
+        "prefix": "_17-19-21",
         "body": "var(--semi-grey-0)",
         "description": "17,19,21;",
         "scope": "sass,scss,css"
     },
     "26-29-31--semi-grey-1": {
-        "prefix": "26-29-31",
+        "prefix": "_26-29-31",
         "body": "var(--semi-grey-1)",
         "description": "26,29,31;",
         "scope": "sass,scss,css"
     },
     "39-43-48--semi-grey-2": {
-        "prefix": "39-43-48",
+        "prefix": "_39-43-48",
         "body": "var(--semi-grey-2)",
         "description": "39,43,48;",
         "scope": "sass,scss,css"
     },
     "51-56-63--semi-grey-3": {
-        "prefix": "51-56-63",
+        "prefix": "_51-56-63",
         "body": "var(--semi-grey-3)",
         "description": "51,56,63;",
         "scope": "sass,scss,css"
     },
     "111-118-126--semi-grey-4": {
-        "prefix": "111-118-126",
+        "prefix": "_111-118-126",
         "body": "var(--semi-grey-4)",
         "description": "111,118,126;",
         "scope": "sass,scss,css"
     },
     "239-239-239--semi-grey-5": {
-        "prefix": "239-239-239",
+        "prefix": "_239-239-239",
         "body": "var(--semi-grey-5)",
         "description": "239,239,239;",
         "scope": "sass,scss,css"
     },
     "244-244-244--semi-grey-6": {
-        "prefix": "244-244-244",
+        "prefix": "_244-244-244",
         "body": "var(--semi-grey-6)",
         "description": "244,244,244;",
         "scope": "sass,scss,css"
     },
     "252-252-252--semi-grey-7": {
-        "prefix": "252-252-252",
+        "prefix": "_252-252-252",
         "body": "var(--semi-grey-7)",
         "description": "252,252,252;",
         "scope": "sass,scss,css"
     },
     "252-252-252--semi-grey-8": {
-        "prefix": "252-252-252",
+        "prefix": "_252-252-252",
         "body": "var(--semi-grey-8)",
         "description": "252,252,252;",
         "scope": "sass,scss,css"
     },
     "252-252-252--semi-grey-9": {
-        "prefix": "252-252-252",
+        "prefix": "_252-252-252",
         "body": "var(--semi-grey-9)",
         "description": "252,252,252;",
         "scope": "sass,scss,css"
     },
     "49-70-3--semi-lime-0": {
-        "prefix": "49-70-3",
+        "prefix": "_49-70-3",
         "body": "var(--semi-lime-0)",
         "description": "49,70,3;",
         "scope": "sass,scss,css"
     },
     "75-105-5--semi-lime-1": {
-        "prefix": "75-105-5",
+        "prefix": "_75-105-5",
         "body": "var(--semi-lime-1)",
         "description": "75,105,5;",
         "scope": "sass,scss,css"
     },
     "103-141-9--semi-lime-2": {
-        "prefix": "103-141-9",
+        "prefix": "_103-141-9",
         "body": "var(--semi-lime-2)",
         "description": "103,141,9;",
         "scope": "sass,scss,css"
     },
     "132-176-12--semi-lime-3": {
-        "prefix": "132-176-12",
+        "prefix": "_132-176-12",
         "body": "var(--semi-lime-3)",
         "description": "132,176,12;",
         "scope": "sass,scss,css"
     },
     "162-211-17--semi-lime-4": {
-        "prefix": "162-211-17",
+        "prefix": "_162-211-17",
         "body": "var(--semi-lime-4)",
         "description": "162,211,17;",
         "scope": "sass,scss,css"
     },
     "174-220-58--semi-lime-5": {
-        "prefix": "174-220-58",
+        "prefix": "_174-220-58",
         "body": "var(--semi-lime-5)",
         "description": "174,220,58;",
         "scope": "sass,scss,css"
     },
     "189-229-102--semi-lime-6": {
-        "prefix": "189-229-102",
+        "prefix": "_189-229-102",
         "body": "var(--semi-lime-6)",
         "description": "189,229,102;",
         "scope": "sass,scss,css"
     },
     "207-237-150--semi-lime-7": {
-        "prefix": "207-237-150",
+        "prefix": "_207-237-150",
         "body": "var(--semi-lime-7)",
         "description": "207,237,150;",
         "scope": "sass,scss,css"
     },
     "229-246-201--semi-lime-8": {
-        "prefix": "229-246-201",
+        "prefix": "_229-246-201",
         "body": "var(--semi-lime-8)",
         "description": "229,246,201;",
         "scope": "sass,scss,css"
     },
     "243-251-233--semi-lime-9": {
-        "prefix": "243-251-233",
+        "prefix": "_243-251-233",
         "body": "var(--semi-lime-9)",
         "description": "243,251,233;",
         "scope": "sass,scss,css"
     },
     "92-7-48--semi-pink-0": {
-        "prefix": "92-7-48",
+        "prefix": "_92-7-48",
         "body": "var(--semi-pink-0)",
         "description": "92,7,48;",
         "scope": "sass,scss,css"
     },
     "128-14-65--semi-pink-1": {
-        "prefix": "128-14-65",
+        "prefix": "_128-14-65",
         "body": "var(--semi-pink-1)",
         "description": "128,14,65;",
         "scope": "sass,scss,css"
     },
     "164-23-81--semi-pink-2": {
-        "prefix": "164-23-81",
+        "prefix": "_164-23-81",
         "body": "var(--semi-pink-2)",
         "description": "164,23,81;",
         "scope": "sass,scss,css"
     },
     "199-34-97--semi-pink-3": {
-        "prefix": "199-34-97",
+        "prefix": "_199-34-97",
         "body": "var(--semi-pink-3)",
         "description": "199,34,97;",
         "scope": "sass,scss,css"
     },
     "235-47-113--semi-pink-4": {
-        "prefix": "235-47-113",
+        "prefix": "_235-47-113",
         "body": "var(--semi-pink-4)",
         "description": "235,47,113;",
         "scope": "sass,scss,css"
     },
     "239-86-134--semi-pink-5": {
-        "prefix": "239-86-134",
+        "prefix": "_239-86-134",
         "body": "var(--semi-pink-5)",
         "description": "239,86,134;",
         "scope": "sass,scss,css"
     },
     "243-126-159--semi-pink-6": {
-        "prefix": "243-126-159",
+        "prefix": "_243-126-159",
         "body": "var(--semi-pink-6)",
         "description": "243,126,159;",
         "scope": "sass,scss,css"
     },
     "247-168-188--semi-pink-7": {
-        "prefix": "247-168-188",
+        "prefix": "_247-168-188",
         "body": "var(--semi-pink-7)",
         "description": "247,168,188;",
         "scope": "sass,scss,css"
     },
     "251-211-220--semi-pink-8": {
-        "prefix": "251-211-220",
+        "prefix": "_251-211-220",
         "body": "var(--semi-pink-8)",
         "description": "251,211,220;",
         "scope": "sass,scss,css"
     },
     "253-238-241--semi-pink-9": {
-        "prefix": "253-238-241",
+        "prefix": "_253-238-241",
         "body": "var(--semi-pink-9)",
         "description": "253,238,241;",
         "scope": "sass,scss,css"
     },
     "2-60-57--semi-teal-0": {
-        "prefix": "2-60-57",
+        "prefix": "_2-60-57",
         "body": "var(--semi-teal-0)",
         "description": "2,60,57;",
         "scope": "sass,scss,css"
     },
     "4-90-85--semi-teal-1": {
-        "prefix": "4-90-85",
+        "prefix": "_4-90-85",
         "body": "var(--semi-teal-1)",
         "description": "4,90,85;",
         "scope": "sass,scss,css"
     },
     "7-119-111--semi-teal-2": {
-        "prefix": "7-119-111",
+        "prefix": "_7-119-111",
         "body": "var(--semi-teal-2)",
         "description": "7,119,111;",
         "scope": "sass,scss,css"
     },
     "10-149-136--semi-teal-3": {
-        "prefix": "10-149-136",
+        "prefix": "_10-149-136",
         "body": "var(--semi-teal-3)",
         "description": "10,149,136;",
         "scope": "sass,scss,css"
     },
     "14-179-161--semi-teal-4": {
-        "prefix": "14-179-161",
+        "prefix": "_14-179-161",
         "body": "var(--semi-teal-4)",
         "description": "14,179,161;",
         "scope": "sass,scss,css"
     },
     "51-194-176--semi-teal-5": {
-        "prefix": "51-194-176",
+        "prefix": "_51-194-176",
         "body": "var(--semi-teal-5)",
         "description": "51,194,176;",
         "scope": "sass,scss,css"
     },
     "94-209-193--semi-teal-6": {
-        "prefix": "94-209-193",
+        "prefix": "_94-209-193",
         "body": "var(--semi-teal-6)",
         "description": "94,209,193;",
         "scope": "sass,scss,css"
     },
     "142-225-211--semi-teal-7": {
-        "prefix": "142-225-211",
+        "prefix": "_142-225-211",
         "body": "var(--semi-teal-7)",
         "description": "142,225,211;",
         "scope": "sass,scss,css"
     },
     "196-240-232--semi-teal-8": {
-        "prefix": "196-240-232",
+        "prefix": "_196-240-232",
         "body": "var(--semi-teal-8)",
         "description": "196,240,232;",
         "scope": "sass,scss,css"
     },
     "230-247-244--semi-teal-9": {
-        "prefix": "230-247-244",
+        "prefix": "_230-247-244",
         "body": "var(--semi-teal-9)",
         "description": "230,247,244;",
         "scope": "sass,scss,css"
     },
     "81-46-9--semi-amber-0": {
-        "prefix": "81-46-9",
+        "prefix": "_81-46-9",
         "body": "var(--semi-amber-0)",
         "description": "81,46,9;",
         "scope": "sass,scss,css"
     },
     "121-75-15--semi-amber-1": {
-        "prefix": "121-75-15",
+        "prefix": "_121-75-15",
         "body": "var(--semi-amber-1)",
         "description": "121,75,15;",
         "scope": "sass,scss,css"
     },
     "161-107-22--semi-amber-2": {
-        "prefix": "161-107-22",
+        "prefix": "_161-107-22",
         "body": "var(--semi-amber-2)",
         "description": "161,107,22;",
         "scope": "sass,scss,css"
     },
     "202-143-30--semi-amber-3": {
-        "prefix": "202-143-30",
+        "prefix": "_202-143-30",
         "body": "var(--semi-amber-3)",
         "description": "202,143,30;",
         "scope": "sass,scss,css"
     },
     "242-183-38--semi-amber-4": {
-        "prefix": "242-183-38",
+        "prefix": "_242-183-38",
         "body": "var(--semi-amber-4)",
         "description": "242,183,38;",
         "scope": "sass,scss,css"
     },
     "245-202-80--semi-amber-5": {
-        "prefix": "245-202-80",
+        "prefix": "_245-202-80",
         "body": "var(--semi-amber-5)",
         "description": "245,202,80;",
         "scope": "sass,scss,css"
     },
     "247-219-122--semi-amber-6": {
-        "prefix": "247-219-122",
+        "prefix": "_247-219-122",
         "body": "var(--semi-amber-6)",
         "description": "247,219,122;",
         "scope": "sass,scss,css"
     },
     "250-234-166--semi-amber-7": {
-        "prefix": "250-234-166",
+        "prefix": "_250-234-166",
         "body": "var(--semi-amber-7)",
         "description": "250,234,166;",
         "scope": "sass,scss,css"
     },
     "252-246-210--semi-amber-8": {
-        "prefix": "252-246-210",
+        "prefix": "_252-246-210",
         "body": "var(--semi-amber-8)",
         "description": "252,246,210;",
         "scope": "sass,scss,css"
     },
     "254-251-237--semi-amber-9": {
-        "prefix": "254-251-237",
+        "prefix": "_254-251-237",
         "body": "var(--semi-amber-9)",
         "description": "254,251,237;",
         "scope": "sass,scss,css"
     },
     "9-63-51--semi-green-0": {
-        "prefix": "9-63-51",
+        "prefix": "_9-63-51",
         "body": "var(--semi-green-0)",
         "description": "9,63,51;",
         "scope": "sass,scss,css"
     },
     "15-95-75--semi-green-1": {
-        "prefix": "15-95-75",
+        "prefix": "_15-95-75",
         "body": "var(--semi-green-1)",
         "description": "15,95,75;",
         "scope": "sass,scss,css"
     },
     "21-126-98--semi-green-2": {
-        "prefix": "21-126-98",
+        "prefix": "_21-126-98",
         "body": "var(--semi-green-2)",
         "description": "21,126,98;",
         "scope": "sass,scss,css"
     },
     "28-158-121--semi-green-3": {
-        "prefix": "28-158-121",
+        "prefix": "_28-158-121",
         "body": "var(--semi-green-3)",
         "description": "28,158,121;",
         "scope": "sass,scss,css"
     },
     "35-189-143--semi-green-4": {
-        "prefix": "35-189-143",
+        "prefix": "_35-189-143",
         "body": "var(--semi-green-4)",
         "description": "35,189,143;",
         "scope": "sass,scss,css"
     },
     "70-202-161--semi-green-5": {
-        "prefix": "70-202-161",
+        "prefix": "_70-202-161",
         "body": "var(--semi-green-5)",
         "description": "70,202,161;",
         "scope": "sass,scss,css"
     },
     "110-215-180--semi-green-6": {
-        "prefix": "110-215-180",
+        "prefix": "_110-215-180",
         "body": "var(--semi-green-6)",
         "description": "110,215,180;",
         "scope": "sass,scss,css"
     },
     "166-225-168--semi-green-7": {
-        "prefix": "166-225-168",
+        "prefix": "_166-225-168",
         "body": "var(--semi-green-7)",
         "description": "166,225,168;",
         "scope": "sass,scss,css"
     },
     "202-242-227--semi-green-8": {
-        "prefix": "202-242-227",
+        "prefix": "_202-242-227",
         "body": "var(--semi-green-8)",
         "description": "202,242,227;",
         "scope": "sass,scss,css"
     },
     "233-248-243--semi-green-9": {
-        "prefix": "233-248-243",
+        "prefix": "_233-248-243",
         "body": "var(--semi-green-9)",
         "description": "233,248,243;",
         "scope": "sass,scss,css"
     },
     "23-30-101--semi-indigo-0": {
-        "prefix": "23-30-101",
+        "prefix": "_23-30-101",
         "body": "var(--semi-indigo-0)",
         "description": "23,30,101;",
         "scope": "sass,scss,css"
     },
     "32-41-122--semi-indigo-1": {
-        "prefix": "32-41-122",
+        "prefix": "_32-41-122",
         "body": "var(--semi-indigo-1)",
         "description": "32,41,122;",
         "scope": "sass,scss,css"
     },
     "41-54-142--semi-indigo-2": {
-        "prefix": "41-54-142",
+        "prefix": "_41-54-142",
         "body": "var(--semi-indigo-2)",
         "description": "41,54,142;",
         "scope": "sass,scss,css"
     },
     "52-68-163--semi-indigo-3": {
-        "prefix": "52-68-163",
+        "prefix": "_52-68-163",
         "body": "var(--semi-indigo-3)",
         "description": "52,68,163;",
         "scope": "sass,scss,css"
     },
     "64-83-183--semi-indigo-4": {
-        "prefix": "64-83-183",
+        "prefix": "_64-83-183",
         "body": "var(--semi-indigo-4)",
         "description": "64,83,183;",
         "scope": "sass,scss,css"
     },
     "95-113-197--semi-indigo-5": {
-        "prefix": "95-113-197",
+        "prefix": "_95-113-197",
         "body": "var(--semi-indigo-5)",
         "description": "95,113,197;",
         "scope": "sass,scss,css"
     },
     "129-145-212--semi-indigo-6": {
-        "prefix": "129-145-212",
+        "prefix": "_129-145-212",
         "body": "var(--semi-indigo-6)",
         "description": "129,145,212;",
         "scope": "sass,scss,css"
     },
     "167-180-226--semi-indigo-7": {
-        "prefix": "167-180-226",
+        "prefix": "_167-180-226",
         "body": "var(--semi-indigo-7)",
         "description": "167,180,226;",
         "scope": "sass,scss,css"
     },
     "209-216-241--semi-indigo-8": {
-        "prefix": "209-216-241",
+        "prefix": "_209-216-241",
         "body": "var(--semi-indigo-8)",
         "description": "209,216,241;",
         "scope": "sass,scss,css"
     },
     "237-239-248--semi-indigo-9": {
-        "prefix": "237-239-248",
+        "prefix": "_237-239-248",
         "body": "var(--semi-indigo-9)",
         "description": "237,239,248;",
         "scope": "sass,scss,css"
     },
     "85-31-3--semi-orange-0": {
-        "prefix": "85-31-3",
+        "prefix": "_85-31-3",
         "body": "var(--semi-orange-0)",
         "description": "85,31,3;",
         "scope": "sass,scss,css"
     },
     "128-54-6--semi-orange-1": {
-        "prefix": "128-54-6",
+        "prefix": "_128-54-6",
         "body": "var(--semi-orange-1)",
         "description": "128,54,6;",
         "scope": "sass,scss,css"
     },
     "170-80-10--semi-orange-2": {
-        "prefix": "170-80-10",
+        "prefix": "_170-80-10",
         "body": "var(--semi-orange-2)",
         "description": "170,80,10;",
         "scope": "sass,scss,css"
     },
     "213-112-15--semi-orange-3": {
-        "prefix": "213-112-15",
+        "prefix": "_213-112-15",
         "body": "var(--semi-orange-3)",
         "description": "213,112,15;",
         "scope": "sass,scss,css"
     },
     "255-147-20--semi-orange-4": {
-        "prefix": "255-147-20",
+        "prefix": "_255-147-20",
         "body": "var(--semi-orange-4)",
         "description": "255,147,20;",
         "scope": "sass,scss,css"
     },
     "255-175-67--semi-orange-5": {
-        "prefix": "255-175-67",
+        "prefix": "_255-175-67",
         "body": "var(--semi-orange-5)",
         "description": "255,175,67;",
         "scope": "sass,scss,css"
     },
     "255-200-114--semi-orange-6": {
-        "prefix": "255-200-114",
+        "prefix": "_255-200-114",
         "body": "var(--semi-orange-6)",
         "description": "255,200,114;",
         "scope": "sass,scss,css"
     },
     "255-221-161--semi-orange-7": {
-        "prefix": "255-221-161",
+        "prefix": "_255-221-161",
         "body": "var(--semi-orange-7)",
         "description": "255,221,161;",
         "scope": "sass,scss,css"
     },
     "255-240-208--semi-orange-8": {
-        "prefix": "255-240-208",
+        "prefix": "_255-240-208",
         "body": "var(--semi-orange-8)",
         "description": "255,240,208;",
         "scope": "sass,scss,css"
     },
     "255-249-237--semi-orange-9": {
-        "prefix": "255-249-237",
+        "prefix": "_255-249-237",
         "body": "var(--semi-orange-9)",
         "description": "255,249,237;",
         "scope": "sass,scss,css"
     },
     "74-16-97--semi-purple-0": {
-        "prefix": "74-16-97",
+        "prefix": "_74-16-97",
         "body": "var(--semi-purple-0)",
         "description": "74,16,97;",
         "scope": "sass,scss,css"
     },
     "94-23-118--semi-purple-1": {
-        "prefix": "94-23-118",
+        "prefix": "_94-23-118",
         "body": "var(--semi-purple-1)",
         "description": "94,23,118;",
         "scope": "sass,scss,css"
     },
     "115-31-138--semi-purple-2": {
-        "prefix": "115-31-138",
+        "prefix": "_115-31-138",
         "body": "var(--semi-purple-2)",
         "description": "115,31,138;",
         "scope": "sass,scss,css"
     },
     "137-40-159--semi-purple-3": {
-        "prefix": "137-40-159",
+        "prefix": "_137-40-159",
         "body": "var(--semi-purple-3)",
         "description": "137,40,159;",
         "scope": "sass,scss,css"
     },
     "160-51-179--semi-purple-4": {
-        "prefix": "160-51-179",
+        "prefix": "_160-51-179",
         "body": "var(--semi-purple-4)",
         "description": "160,51,179;",
         "scope": "sass,scss,css"
     },
     "181-83-194--semi-purple-5": {
-        "prefix": "181-83-194",
+        "prefix": "_181-83-194",
         "body": "var(--semi-purple-5)",
         "description": "181,83,194;",
         "scope": "sass,scss,css"
     },
     "202-120-209--semi-purple-6": {
-        "prefix": "202-120-209",
+        "prefix": "_202-120-209",
         "body": "var(--semi-purple-6)",
         "description": "202,120,209;",
         "scope": "sass,scss,css"
     },
     "221-160-225--semi-purple-7": {
-        "prefix": "221-160-225",
+        "prefix": "_221-160-225",
         "body": "var(--semi-purple-7)",
         "description": "221,160,225;",
         "scope": "sass,scss,css"
     },
     "239-206-240--semi-purple-8": {
-        "prefix": "239-206-240",
+        "prefix": "_239-206-240",
         "body": "var(--semi-purple-8)",
         "description": "239,206,240;",
         "scope": "sass,scss,css"
     },
     "247-235-247--semi-purple-9": {
-        "prefix": "247-235-247",
+        "prefix": "_247-235-247",
         "body": "var(--semi-purple-9)",
         "description": "247,235,247;",
         "scope": "sass,scss,css"
     },
     "47-27-120--semi-violet-0": {
-        "prefix": "47-27-120",
+        "prefix": "_47-27-120",
         "body": "var(--semi-violet-0)",
         "description": "47,27,120;",
         "scope": "sass,scss,css"
     },
     "61-36-141--semi-violet-1": {
-        "prefix": "61-36-141",
+        "prefix": "_61-36-141",
         "body": "var(--semi-violet-1)",
         "description": "61,36,141;",
         "scope": "sass,scss,css"
     },
     "78-46-161--semi-violet-2": {
-        "prefix": "78-46-161",
+        "prefix": "_78-46-161",
         "body": "var(--semi-violet-2)",
         "description": "78,46,161;",
         "scope": "sass,scss,css"
     },
     "96-57-182--semi-violet-3": {
-        "prefix": "96-57-182",
+        "prefix": "_96-57-182",
         "body": "var(--semi-violet-3)",
         "description": "96,57,182;",
         "scope": "sass,scss,css"
     },
     "115-70-202--semi-violet-4": {
-        "prefix": "115-70-202",
+        "prefix": "_115-70-202",
         "body": "var(--semi-violet-4)",
         "description": "115,70,202;",
         "scope": "sass,scss,css"
     },
     "143-101-213--semi-violet-5": {
-        "prefix": "143-101-213",
+        "prefix": "_143-101-213",
         "body": "var(--semi-violet-5)",
         "description": "143,101,213;",
         "scope": "sass,scss,css"
     },
     "171-136-223--semi-violet-6": {
-        "prefix": "171-136-223",
+        "prefix": "_171-136-223",
         "body": "var(--semi-violet-6)",
         "description": "171,136,223;",
         "scope": "sass,scss,css"
     },
     "202-189-255--semi-violet-7": {
-        "prefix": "202-189-255",
+        "prefix": "_202-189-255",
         "body": "var(--semi-violet-7)",
         "description": "202,189,255;",
         "scope": "sass,scss,css"
     },
     "228-212-244--semi-violet-8": {
-        "prefix": "228-212-244",
+        "prefix": "_228-212-244",
         "body": "var(--semi-violet-8)",
         "description": "228,212,244;",
         "scope": "sass,scss,css"
     },
     "244-238-250--semi-violet-9": {
-        "prefix": "244-238-250",
+        "prefix": "_244-238-250",
         "body": "var(--semi-violet-9)",
         "description": "244,238,250;",
         "scope": "sass,scss,css"
     },
     "84-73-3--semi-yellow-0": {
-        "prefix": "84-73-3",
+        "prefix": "_84-73-3",
         "body": "var(--semi-yellow-0)",
         "description": "84,73,3;",
         "scope": "sass,scss,css"
     },
     "126-108-6--semi-yellow-1": {
-        "prefix": "126-108-6",
+        "prefix": "_126-108-6",
         "body": "var(--semi-yellow-1)",
         "description": "126,108,6;",
         "scope": "sass,scss,css"
     },
     "168-142-10--semi-yellow-2": {
-        "prefix": "168-142-10",
+        "prefix": "_168-142-10",
         "body": "var(--semi-yellow-2)",
         "description": "168,142,10;",
         "scope": "sass,scss,css"
     },
     "210-175-15--semi-yellow-3": {
-        "prefix": "210-175-15",
+        "prefix": "_210-175-15",
         "body": "var(--semi-yellow-3)",
         "description": "210,175,15;",
         "scope": "sass,scss,css"
     },
     "252-206-20--semi-yellow-4": {
-        "prefix": "252-206-20",
+        "prefix": "_252-206-20",
         "body": "var(--semi-yellow-4)",
         "description": "252,206,20;",
         "scope": "sass,scss,css"
     },
     "253-222-67--semi-yellow-5": {
-        "prefix": "253-222-67",
+        "prefix": "_253-222-67",
         "body": "var(--semi-yellow-5)",
         "description": "253,222,67;",
         "scope": "sass,scss,css"
     },
     "253-235-113--semi-yellow-6": {
-        "prefix": "253-235-113",
+        "prefix": "_253-235-113",
         "body": "var(--semi-yellow-6)",
         "description": "253,235,113;",
         "scope": "sass,scss,css"
     },
     "254-245-160--semi-yellow-7": {
-        "prefix": "254-245-160",
+        "prefix": "_254-245-160",
         "body": "var(--semi-yellow-7)",
         "description": "254,245,160;",
         "scope": "sass,scss,css"
     },
     "254-251-208--semi-yellow-8": {
-        "prefix": "254-251-208",
+        "prefix": "_254-251-208",
         "body": "var(--semi-yellow-8)",
         "description": "254,251,208;",
         "scope": "sass,scss,css"
     },
     "255-254-236--semi-yellow-9": {
-        "prefix": "255-254-236",
+        "prefix": "_255-254-236",
         "body": "var(--semi-yellow-9)",
         "description": "255,254,236;",
         "scope": "sass,scss,css"
     },
     "0-0-0--semi-Dark-sit-0": {
-        "prefix": "0-0-0",
+        "prefix": "_0-0-0",
         "body": "var(--semi-Dark-sit-0)",
         "description": "0,0,0;",
         "scope": "sass,scss,css"
     },
     "0-0-0--semi-Dark-sit-1": {
-        "prefix": "0-0-0",
+        "prefix": "_0-0-0",
         "body": "var(--semi-Dark-sit-1)",
         "description": "0,0,0;",
         "scope": "sass,scss,css"
     },
     "0-0-0--semi-Dark-sit-2": {
-        "prefix": "0-0-0",
+        "prefix": "_0-0-0",
         "body": "var(--semi-Dark-sit-2)",
         "description": "0,0,0;",
         "scope": "sass,scss,css"
     },
     "13-13-17--semi-Dark-sit-3": {
-        "prefix": "13-13-17",
+        "prefix": "_13-13-17",
         "body": "var(--semi-Dark-sit-3)",
         "description": "13,13,17;",
         "scope": "sass,scss,css"
     },
     "29-31-37--semi-Dark-sit-4": {
-        "prefix": "29-31-37",
+        "prefix": "_29-31-37",
         "body": "var(--semi-Dark-sit-4)",
         "description": "29,31,37;",
         "scope": "sass,scss,css"
     },
     "67-70-81--semi-Dark-sit-5": {
-        "prefix": "67-70-81",
+        "prefix": "_67-70-81",
         "body": "var(--semi-Dark-sit-5)",
         "description": "67,70,81;",
         "scope": "sass,scss,css"
     },
     "108-113-124--semi-Dark-sit-6": {
-        "prefix": "108-113-124",
+        "prefix": "_108-113-124",
         "body": "var(--semi-Dark-sit-6)",
         "description": "108,113,124;",
         "scope": "sass,scss,css"
     },
     "153-158-168--semi-Dark-sit-7": {
-        "prefix": "153-158-168",
+        "prefix": "_153-158-168",
         "body": "var(--semi-Dark-sit-7)",
         "description": "153,158,168;",
         "scope": "sass,scss,css"
     },
     "202-205-211--semi-Dark-sit-8": {
-        "prefix": "202-205-211",
+        "prefix": "_202-205-211",
         "body": "var(--semi-Dark-sit-8)",
         "description": "202,205,211;",
         "scope": "sass,scss,css"
     },
     "233-233-233--semi-Dark-sit-9": {
-        "prefix": "233-233-233",
+        "prefix": "_233-233-233",
         "body": "var(--semi-Dark-sit-9)",
         "description": "233,233,233;",
         "scope": "sass,scss,css"
     },
     "0-55-97--semi-light-blue-0": {
-        "prefix": "0-55-97",
+        "prefix": "_0-55-97",
         "body": "var(--semi-light-blue-0)",
         "description": "0,55,97;",
         "scope": "sass,scss,css"
     },
     "0-77-133--semi-light-blue-1": {
-        "prefix": "0-77-133",
+        "prefix": "_0-77-133",
         "body": "var(--semi-light-blue-1)",
         "description": "0,77,133;",
         "scope": "sass,scss,css"
     },
     "3-102-169--semi-light-blue-2": {
-        "prefix": "3-102-169",
+        "prefix": "_3-102-169",
         "body": "var(--semi-light-blue-2)",
         "description": "3,102,169;",
         "scope": "sass,scss,css"
     },
     "10-129-204--semi-light-blue-3": {
-        "prefix": "10-129-204",
+        "prefix": "_10-129-204",
         "body": "var(--semi-light-blue-3)",
         "description": "10,129,204;",
         "scope": "sass,scss,css"
     },
     "19-159-240--semi-light-blue-4": {
-        "prefix": "19-159-240",
+        "prefix": "_19-159-240",
         "body": "var(--semi-light-blue-4)",
         "description": "19,159,240;",
         "scope": "sass,scss,css"
     },
     "64-180-243--semi-light-blue-5": {
-        "prefix": "64-180-243",
+        "prefix": "_64-180-243",
         "body": "var(--semi-light-blue-5)",
         "description": "64,180,243;",
         "scope": "sass,scss,css"
     },
     "110-200-246--semi-light-blue-6": {
-        "prefix": "110-200-246",
+        "prefix": "_110-200-246",
         "body": "var(--semi-light-blue-6)",
         "description": "110,200,246;",
         "scope": "sass,scss,css"
     },
     "157-220-249--semi-light-blue-7": {
-        "prefix": "157-220-249",
+        "prefix": "_157-220-249",
         "body": "var(--semi-light-blue-7)",
         "description": "157,220,249;",
         "scope": "sass,scss,css"
     },
     "206-238-252--semi-light-blue-8": {
-        "prefix": "206-238-252",
+        "prefix": "_206-238-252",
         "body": "var(--semi-light-blue-8)",
         "description": "206,238,252;",
         "scope": "sass,scss,css"
     },
     "235-248-254--semi-light-blue-9": {
-        "prefix": "235-248-254",
+        "prefix": "_235-248-254",
         "body": "var(--semi-light-blue-9)",
         "description": "235,248,254;",
         "scope": "sass,scss,css"
     },
     "38-61-19--semi-light-green-0": {
-        "prefix": "38-61-19",
+        "prefix": "_38-61-19",
         "body": "var(--semi-light-green-0)",
         "description": "38,61,19;",
         "scope": "sass,scss,css"
     },
     "59-92-29--semi-light-green-1": {
-        "prefix": "59-92-29",
+        "prefix": "_59-92-29",
         "body": "var(--semi-light-green-1)",
         "description": "59,92,29;",
         "scope": "sass,scss,css"
     },
     "81-123-40--semi-light-green-2": {
-        "prefix": "81-123-40",
+        "prefix": "_81-123-40",
         "body": "var(--semi-light-green-2)",
         "description": "81,123,40;",
         "scope": "sass,scss,css"
     },
     "103-153-52--semi-light-green-3": {
-        "prefix": "103-153-52",
+        "prefix": "_103-153-52",
         "body": "var(--semi-light-green-3)",
         "description": "103,153,52;",
         "scope": "sass,scss,css"
     },
     "127-184-64--semi-light-green-4": {
-        "prefix": "127-184-64",
+        "prefix": "_127-184-64",
         "body": "var(--semi-light-green-4)",
         "description": "127,184,64;",
         "scope": "sass,scss,css"
     },
     "151-198-95--semi-light-green-5": {
-        "prefix": "151-198-95",
+        "prefix": "_151-198-95",
         "body": "var(--semi-light-green-5)",
         "description": "151,198,95;",
         "scope": "sass,scss,css"
     },
     "176-212-129--semi-light-green-6": {
-        "prefix": "176-212-129",
+        "prefix": "_176-212-129",
         "body": "var(--semi-light-green-6)",
         "description": "176,212,129;",
         "scope": "sass,scss,css"
     },
     "201-227-167--semi-light-green-7": {
-        "prefix": "201-227-167",
+        "prefix": "_201-227-167",
         "body": "var(--semi-light-green-7)",
         "description": "201,227,167;",
         "scope": "sass,scss,css"
     },
     "228-241-209--semi-light-green-8": {
-        "prefix": "228-241-209",
+        "prefix": "_228-241-209",
         "body": "var(--semi-light-green-8)",
         "description": "228,241,209;",
         "scope": "sass,scss,css"
     },
     "243-248-237--semi-light-green-9": {
-        "prefix": "243-248-237",
+        "prefix": "_243-248-237",
         "body": "var(--semi-light-green-9)",
         "description": "243,248,237;",
         "scope": "sass,scss,css"
