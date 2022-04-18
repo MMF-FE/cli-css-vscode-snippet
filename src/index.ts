@@ -131,7 +131,7 @@ export function createCssVarSnippet(
         return values[varName]
     })
 
-    createVarSnippet(content, snippetPath, 'css')
+    return createVarSnippet(content, snippetPath, 'css')
 }
 
 const command: yargs.CommandModule = {
