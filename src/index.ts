@@ -8,6 +8,34 @@
  import * as sass from 'sass'
  import * as yargs from 'yargs'
 
+ // 格式化名称
+ function formatName(name:string) {
+     return name.replace(/\(|\)/g, '').replace(/(,\s*)|(\.)/g, '-')
+ }
+
+ function RGBAToHexA(rgbaValue: string) {
+     let [r, g, b, a]= rgbaValue.split(/,\s*/i)
+
+    r = Number(r).toString(16);
+    g = Number(g).toString(16);
+    b = Number(b).toString(16);
+
+    if (a) {
+        a = Math.round(Number(a) * 255).toString(16);
+    }
+  
+    if (r.length === 1)
+      r = "0" + r;
+    if (g.length === 1)
+      g = "0" + g;
+    if (b.length === 1)
+      b = "0" + b;
+    if (a?.length === 1)
+      a = "0" + a;
+  
+    return "#" + r + g + b + (a ? a : '');
+  }
+
  // 创建 css/sass 变量 代码片段
 export async function createVarSnippet(
     varContent: string,
@@ -28,22 +56,35 @@ export async function createVarSnippet(
     const snippets: Record<string, any> = {}
     vars.forEach(v => {
         const body = isSass ? `\\${v.name};` : `var(${v.name})`
-        snippets[v.name] = {
-            prefix: v.name,
+        const snippetBase = {
             body,
             description: v.desc,
             scope: 'sass,scss,css'
         }
+        
+        snippets[v.name] = {
+            prefix: v.name,
+            ...snippetBase
+        }
 
-        const hexReg = /(#[0-9A-F]{6})|(^#[0-9A-F]{3})/gi
-        const hexColor = (v.desc.match(hexReg) || [])[0]
+        const colorReg = /(#[0-9A-F]{6})|(^#[0-9A-F]{3})|(^\d+,\s?\d+,\s?\d+\s?)|(^rgba?\([\d,\s\.]+\))/i
+        const color = formatName((v.desc.match(colorReg) || [])[0] || '')
 
-        if (hexColor) {
+        if (color) {
+            snippets[color + v.name] = {
+                prefix: color,
+                ...snippetBase
+            }
+        }
+
+        // 将 rgb, rgba 的加一个十六进制的
+        const rgbColorReg = /^rgba?\((\d+,\s*\d+,\s*\d+\s*(\,\s*[\d\.]+)?)\)/i
+        const rgbaValue = (v.desc.match(rgbColorReg) || [])[1]
+        if (rgbaValue) {
+            const hexColor = RGBAToHexA(rgbaValue)
             snippets[hexColor + v.name] = {
                 prefix: hexColor,
-                body,
-                description: v.desc,
-                scope: 'sass,scss,css'
+                ...snippetBase
             }
         }
     })

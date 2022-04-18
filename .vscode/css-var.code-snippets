@@ -11,6 +11,18 @@
         "description": "#6c5dd3;",
         "scope": "sass,scss,css"
     },
+    "--color-primary-rgb": {
+        "prefix": "--color-primary-rgb",
+        "body": "var(--color-primary-rgb)",
+        "description": "11, 11, 11;",
+        "scope": "sass,scss,css"
+    },
+    "11-11-11--color-primary-rgb": {
+        "prefix": "11-11-11",
+        "body": "var(--color-primary-rgb)",
+        "description": "11, 11, 11;",
+        "scope": "sass,scss,css"
+    },
     "--color-primary-shades": {
         "prefix": "--color-primary-shades",
         "body": "var(--color-primary-shades)",
@@ -269,6 +281,18 @@
         "description": "rgba(228, 228, 228, 0.5);",
         "scope": "sass,scss,css"
     },
+    "rgba228-228-228-0-5--color-gray-shades-2": {
+        "prefix": "rgba228-228-228-0-5",
+        "body": "var(--color-gray-shades-2)",
+        "description": "rgba(228, 228, 228, 0.5);",
+        "scope": "sass,scss,css"
+    },
+    "#e4e4e480--color-gray-shades-2": {
+        "prefix": "#e4e4e480",
+        "body": "var(--color-gray-shades-2)",
+        "description": "rgba(228, 228, 228, 0.5);",
+        "scope": "sass,scss,css"
+    },
     "--color-gray-shades-3": {
         "prefix": "--color-gray-shades-3",
         "body": "var(--color-gray-shades-3)",
@@ -285,6 +309,54 @@
         "prefix": "--color-gray-shades-4",
         "body": "var(--color-gray-shades-4)",
         "description": "rgba(228, 228, 228, 0.25);",
+        "scope": "sass,scss,css"
+    },
+    "rgba228-228-228-0-25--color-gray-shades-4": {
+        "prefix": "rgba228-228-228-0-25",
+        "body": "var(--color-gray-shades-4)",
+        "description": "rgba(228, 228, 228, 0.25);",
+        "scope": "sass,scss,css"
+    },
+    "#e4e4e440--color-gray-shades-4": {
+        "prefix": "#e4e4e440",
+        "body": "var(--color-gray-shades-4)",
+        "description": "rgba(228, 228, 228, 0.25);",
+        "scope": "sass,scss,css"
+    },
+    "--color-gray-shades-5": {
+        "prefix": "--color-gray-shades-5",
+        "body": "var(--color-gray-shades-5)",
+        "description": "rgb(228, 228, 228);",
+        "scope": "sass,scss,css"
+    },
+    "rgb228-228-228--color-gray-shades-5": {
+        "prefix": "rgb228-228-228",
+        "body": "var(--color-gray-shades-5)",
+        "description": "rgb(228, 228, 228);",
+        "scope": "sass,scss,css"
+    },
+    "#e4e4e4--color-gray-shades-5": {
+        "prefix": "#e4e4e4",
+        "body": "var(--color-gray-shades-5)",
+        "description": "rgb(228, 228, 228);",
+        "scope": "sass,scss,css"
+    },
+    "--color-gray-shades-6": {
+        "prefix": "--color-gray-shades-6",
+        "body": "var(--color-gray-shades-6)",
+        "description": "rgba(228, 228, 228, 1);",
+        "scope": "sass,scss,css"
+    },
+    "rgba228-228-228-1--color-gray-shades-6": {
+        "prefix": "rgba228-228-228-1",
+        "body": "var(--color-gray-shades-6)",
+        "description": "rgba(228, 228, 228, 1);",
+        "scope": "sass,scss,css"
+    },
+    "#e4e4e4ff--color-gray-shades-6": {
+        "prefix": "#e4e4e4ff",
+        "body": "var(--color-gray-shades-6)",
+        "description": "rgba(228, 228, 228, 1);",
         "scope": "sass,scss,css"
     }
 }

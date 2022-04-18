@@ -1,5 +1,6 @@
 html {
     --color-primary: #6c5dd3;
+    --color-primary-rgb: 11, 11, 11;
     --color-primary-shades: #cfc8ff;
     --color-primary-shades-1: #cfc8ff;
 
@@ -28,4 +29,6 @@ html {
     --color-gray-shades-2: rgba(228, 228, 228, 0.5);
     --color-gray-shades-3: #f0f3f6;
     --color-gray-shades-4: rgba(228, 228, 228, 0.25);
+    --color-gray-shades-5: rgb(228, 228, 228);
+    --color-gray-shades-6: rgba(228, 228, 228, 1);
 }
