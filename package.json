@@ -1,6 +1,6 @@
 {
     "name": "cli-css-vscode-snippet",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "CDN extension for the vite plugin",
     "main": "dist/index.js",
     "module": "dist/index.mjs",
