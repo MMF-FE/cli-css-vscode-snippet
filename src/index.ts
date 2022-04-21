@@ -72,7 +72,7 @@ export async function createVarSnippet(
 
         if (color) {
             snippets[color + v.name] = {
-                prefix: color.replace(/^\d+/, (match) => `_${match}`),
+                prefix: color.replace(/^\d+/, (match) => `r${match}`),
                 ...snippetBase
             }
         }
@@ -118,18 +118,20 @@ export function createCssVarSnippet(
             .css.toString()
     }
 
-    // 将 var(xxx) 替换成对应的值
     const values: Record<string, any> = {}
-    content.replace(/([\w]+): ([\w]+)/gi, (match, varName, value) => {
+    content.replace(/([-\w]+):\s*([\w\,\s\(\)#\.]+)/g, (match, varName, value) => {
         // 颜色只支持第一个定义的颜色
         if (!values[varName]) {
             values[varName] = value
         }
         return match
     })
-    content = content.replace(/var\(([\w]+)\)/gi, (match, varName) => {
+    // 将 var(xxx) 替换成对应的值
+    content = content.replace(/var\(([\w-_]+)\)/g, (match, varName) => {
         return values[varName]
     })
+
+    console.log(content, values)
 
     return createVarSnippet(content, snippetPath, 'css')
 }
