@@ -131,8 +131,6 @@ export function createCssVarSnippet(
         return values[varName]
     })
 
-    console.log(content, values)
-
     return createVarSnippet(content, snippetPath, 'css')
 }
 
