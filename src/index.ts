@@ -3,10 +3,10 @@
  */
 
  import chalk from 'chalk'
- import * as fs from 'fs-extra'
- import * as path from 'path'
- import * as sass from 'sass'
- import * as yargs from 'yargs'
+ import fs from 'fs-extra'
+ import path from 'path'
+ import sass from 'sass'
+ import yargs from 'yargs'
 
  // 格式化名称
  function formatName(name:string) {
